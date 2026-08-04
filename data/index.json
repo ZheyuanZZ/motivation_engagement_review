@@ -64,7 +64,7 @@
     "tagFilter": [],
     "typeFilter": [],
     "boardBy": "type",
-    "board": false,
+    "board": true,
     "topics": [],
     "graph": {
       "layout": "timeline",
