@@ -1,17 +1,16 @@
 {
   "schema": 3,
   "types": [
-    "Tier 1 — systematic / umbrella review",
-    "Tier 2 — primary study",
-    "Tier 3 — adjacent / methodological",
-    "Theory / framework"
+    "Case Study",
+    "Theory/Framework",
+    "Anti-case"
   ],
   "columns": [
     {
       "id": "paper",
       "name": "Paper",
       "kind": "paper",
-      "w": 300
+      "w": 264
     },
     {
       "id": "authors",
@@ -23,7 +22,7 @@
       "id": "type",
       "name": "Type",
       "kind": "type",
-      "w": 200
+      "w": 210
     },
     {
       "id": "topic",
@@ -32,16 +31,16 @@
       "w": 190
     },
     {
-      "id": "summary",
-      "name": "Summary",
-      "kind": "summary",
-      "w": 340
-    },
-    {
       "id": "insight",
       "name": "Insight",
       "kind": "text",
-      "w": 360
+      "w": 420
+    },
+    {
+      "id": "c_l70gfkn",
+      "name": "Finding",
+      "kind": "text",
+      "w": 405
     },
     {
       "id": "evidence",
@@ -50,35 +49,3983 @@
       "w": 300
     }
   ],
-  "rows": [],
-  "removedCols": [],
+  "rows": [
+    {
+      "id": "h9fc6o0",
+      "paperId": "i9jd26r",
+      "type": "Theory/Framework",
+      "insight": "Taxonomy of App features",
+      "evidence": [],
+      "cells": {
+        "c_l70gfkn": "<br>"
+      },
+      "h": 100,
+      "expand": null
+    },
+    {
+      "id": "esnkv0v",
+      "paperId": "ar5xkk2",
+      "type": "Theory/Framework",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "d5fbobz",
+      "paperId": "mt752ew",
+      "type": "",
+      "insight": "aaaa",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "dskk56x",
+      "paperId": "49tdaji",
+      "type": "",
+      "insight": "aaa",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "jrbabtf",
+      "paperId": "rofgqdg",
+      "type": "",
+      "insight": "aa",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "uul0osy",
+      "paperId": "7du2217",
+      "type": "",
+      "insight": "qweq",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "po8wx6z",
+      "paperId": "sts5dp6",
+      "type": "",
+      "insight": "qweq",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "6yldajs",
+      "paperId": "x9xt54h",
+      "type": "",
+      "insight": "qwe",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "ufkro58",
+      "paperId": "zqfz6xf",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "ofm7xun",
+      "paperId": "nwlz5qs",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "195ilj1",
+      "paperId": "umoov7j",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "gbemp2y",
+      "paperId": "z13wn7m",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "nm0qlhh",
+      "paperId": "fdkkp1g",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "fa9gu7q",
+      "paperId": "146ty9t",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "8p2cl86",
+      "paperId": "s982is6",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "b7ob1gj",
+      "paperId": "oanbuqf",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "cmwx5vw",
+      "paperId": "0pz2242",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "p40e2hk",
+      "paperId": "mg41a6x",
+      "type": "Theory/Framework",
+      "insight": "Big E = Engagement with BCT\nSmall e = Engagement with technology",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "• User interactions with the DBCI features and the contextin which those interactions happen (little eUI)• Interactions with behavior change interventioncomponents/active ingredients specifically designed toinfluence the behavioral determinants which in turninfluence the health behaviors (little eBCT)",
+          "paperId": "mg41a6x"
+        },
+        {
+          "page": 6,
+          "quote": "These BCTs are often experienced as features in theuser experiences (Figure 3) and, in some cases, inform how thetechnology solutions may function",
+          "paperId": "mg41a6x"
+        }
+      ],
+      "cells": {
+        "c_l70gfkn": ""
+      },
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "tj9gxcb",
+      "paperId": "9sgr5i4",
+      "type": "Case Study",
+      "insight": "PokemonGo - <b>The behavourial change is no longer effective after 6 weeks</b>",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "By the sixth week afterinstallation, the number of daily steps had gone backto pre-installation levels. No significant effectmodification of Pokémon GO was found by sex, age,race group, bodyweight status, urbanity, or walkabilityof the area of residence",
+          "paperId": "9sgr5i4"
+        }
+      ],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "hjpvo22",
+      "paperId": "huz1mny",
+      "type": "Case Study",
+      "insight": "Pokemon Go - <b>Lack of internalisation</b>, although more physical activity",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "Asexpected, correlation analyses revealed that participants’ overallphysically active behavior was positively associated with frequencyof app usage, attitudes toward physical activity, and Pok\u0013emon Gorelated physical activity, whereas attitudes were negatively asso-ciated with the frequency of Pok\u0013emon Go usage and the amount ofPok\u0013emon Go related physical activity. Moreover, social sharing waspositively associated with both Pok\u0013emon Go app usage andPok\u0013emon Go related physical activity.",
+          "paperId": "huz1mny",
+          "color": "green"
+        },
+        {
+          "page": 3,
+          "quote": "It thus appears that the positive effect of Pok\u0013emon Go usage onactivity is limited to activity related to the app but does notgeneralize to other activities. Interestingly, attitudes toward phys-ical activity were negatively correlated with both frequency of appusage and Pok\u0013emon Go related physical activity (Table 1), whichsuggests that using the app is not associated with a more favorableopinion toward exercise in general. Overall, we suspect thatPok\u0013emon Go users will be less active when they no longer use theapp",
+          "paperId": "huz1mny"
+        }
+      ],
+      "cells": {
+        "c_l70gfkn": "suggests that using the app is not associated with a more favorable opinion toward exercise in general. Overall, we suspect that Pokemon Go users will be less active when they no longer use the app"
+      },
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "gpx2y9p",
+      "paperId": "mwv9vq5",
+      "type": "Case Study",
+      "insight": "Pokemnon Go - <b>Active users exercise less</b>; Social function can motivate long-term game engagement.",
+      "evidence": [
+        {
+          "page": 5,
+          "quote": "descriptive analysisreveals that former as well as nonusers of Pokémon Go tend toperform physical activity “several times a week,” whereas thegroup of active users is spread over the whole range ofperforming physical activity “several times per week” to“never.” A univariate analysis of variance revealed significantdifferences in the physical activity behavior between the threegroups (F2,196=14.359, P<.001).",
+          "paperId": "mwv9vq5"
+        },
+        {
+          "page": 11,
+          "quote": "Social interaction was themain function identified as missing in this game and,furthermore, it was identified as the function motivatinglong-term use. If a user is not fully immersed in the theme,social interaction and especially social rewards are the elementsmotivating users less interested in the theme of the game tocontinue playing. This is independent of a certain personalityor user type. Therefore, augmented reality exergames shouldincorporate functions that support social interaction among usersas well as between users and their friends and family.",
+          "paperId": "mwv9vq5"
+        }
+      ],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "30hv9n9",
+      "paperId": "mwv9vq5",
+      "type": "",
+      "insight": "",
+      "evidence": [
+        {
+          "page": 1,
+          "quote": "ctive users stated that they were less physically active in general than former and nonusers",
+          "paperId": "mwv9vq5"
+        },
+        {
+          "page": 11,
+          "quote": "Although the initial motivation to start was the same for activeas well as former users, the motivation to continue playing wasmainly linked to social interaction.",
+          "paperId": "mwv9vq5"
+        },
+        {
+          "page": 5,
+          "quote": "escriptive analysisreveals that former as well as nonusers of Pokémon Go tend toperform physical activity “several times a week,” whereas thegroup of active users is spread over the whole range ofperforming physical activity “several times per week” to“never.” A univariate analysis of variance revealed significantdifferences in the physical activity behavior between the threegroups",
+          "paperId": "mwv9vq5"
+        }
+      ],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "81inn65",
+      "paperId": "kifr7sz",
+      "type": "Case Study",
+      "insight": "Pokemnon Go - BC happened, but proven <b>only with cross-sectional data</b>",
+      "evidence": [
+        {
+          "page": 3,
+          "quote": "from mid-July tomid-November 2016.",
+          "paperId": "kifr7sz",
+          "color": "green"
+        },
+        {
+          "page": 1,
+          "quote": "We discovered 8 types of behavior changes and 13 game features relevant to those behavior changes. The behaviorchanges included added activity in life, enhancing routines, exploration, increased physical activity, strengthening social bonds,lowering social barriers, increased positive emotional expression and self-treatment.",
+          "paperId": "kifr7sz",
+          "color": "green"
+        }
+      ],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "0m7z4e8",
+      "paperId": "0jfi5eq",
+      "type": "Case Study",
+      "insight": "<p>The finding is an interaction — meaning medication's value <em>depended on which app</em> the person had. Among people using no medication: 28% vs 22% quit (the basic app effect). Among people using any medication: 34% vs 20% — the iCanQuit advantage more than doubled. And among people using nicotine replacement only, the most striking numbers in the paper: 40% quit with iCanQuit versus 18% with QuitGuide. Within the iCanQuit arm, NRT users had 1.78 times the odds of quitting compared to non-users. Within the QuitGuide arm, medication added <em>nothing</em> — if anything, medication users did slightly worse.</p>\n<p>Their explanation: iCanQuit gives the two treatments a coherent joint story — medication to dampen cravings in the short term, acceptance skills for whatever cravings remain and for the long term (\"change what you can, accept what you cannot\") </p>",
+      "evidence": [],
+      "cells": {
+        "c_l70gfkn": ""
+      },
+      "h": 133,
+      "expand": null
+    },
+    {
+      "id": "jgzg76z",
+      "paperId": "9bxthk0",
+      "type": "Case Study",
+      "insight": "<div><b>No details on design</b></div>28.2% of iCanQuit users were abstinent at 12 months versus 21.1% of QuitGuide users — about 1.5 times higher odds of quitting, and the advantage held on every secondary measure",
+      "evidence": [
+        {
+          "page": 8,
+          "quote": "as well as thedesign services of Ayogo Inc and the developmentservices of Moby Inc.",
+          "paperId": "9bxthk0"
+        }
+      ],
+      "cells": {
+        "c_l70gfkn": ""
+      },
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "ps3sk5b",
+      "paperId": "zsif2g7",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "gtv4l5q",
+      "paperId": "skzz2u2",
+      "type": "Case Study",
+      "insight": "<p>SmartQuit (the 2013 predecessor of iCanQuit, iPhone-only) had 41 features in total. The main ones:</p><ul><li><strong>Quit Plan</strong> — created at first launch: pick a quit date, record what inspires you to quit (values — e.g., uploading a photo of your children for \"family\"), choose strategies for cutting down, and consider medications.</li>\n<li><strong>Three exercise menus</strong>, all ACT content delivered as short videos or audio with transcripts: <em>Staying Motivated</em> (values exercises), <em>Having an Urge</em> (letting cravings pass without smoking — e.g., the \"Leaves on a Stream\" and \"Chinese Handcuffs\" exercises), and <em>I Slipped</em> (self-compassion after a lapse).</li>\n<li><strong>Tracking</strong> — daily counts of four things: cigarettes smoked, medication use, and two skill counts: times you let an urge pass without smoking, and times you practised an ACT tip.</li>\n<li><strong>Progress</strong> — visualisations of the tracked data (calendar, chart, GPS map) plus badges earned.</li>\n<li><strong>Sharing</strong> (post progress via email, Twitter, Facebook, text) and <strong>Notes</strong> (journal entries).</li>\n<li><strong>Reminders</strong> — twice-daily push notifications (morning: try a randomly chosen ACT exercise; evening: do your tracking), on by default, plus a weekly reminder email. No payment or incentive of any kind for using the app — compensation was only for completing the outcome survey.</li></ul>",
+      "evidence": [],
+      "cells": {
+        "c_l70gfkn": "<p><em>First: what people used was overwhelmingly the CBT furniture, not the ACT therapy.</em> Eight of the top ten features by unique users were CBT-type: quit plan (#1 — all 76 users, median 8 views), tracking smoking (#2 — 67 users, median 24 uses, the heaviest-used feature), progress calendar, sharing, progress chart, tracking map, badges, notes. Only two ACT features made the top ten: tracking \"urges let pass\" (#6) and one Staying Motivated exercise (#8). People gravitated to logging and looking at their own data, not to the exercises containing the therapeutic method.</p>\n<p><em>Second: what predicted quitting barely overlapped with what was popular.</em> Only three features predicted abstinence: tracking ACT skill practice (p = 0.01, OR 16.4 — and used by only 43 of 76 people, so not even in the top ten), viewing the quit plan (p = 0.03, OR 11.1), and tracking the practice of letting urges pass (p = 0.03, OR 10.5). Three more ACT exercises (the work-values video, Leaves on a Stream, Chinese Handcuffs) showed the same direction at trend level (ORs around 4, p = 0.06–0.07). Notice what unites the winners: they all involve <em>doing or recording the skill</em> — active practice of the mechanism — while the popular-but-inert features (progress charts, sharing, badges) involve passively consuming feedback. Ten years before the iCanQuit mediation study, the same signal is already here: engagement with the mechanism predicts quitting; engagement with the wrapper doesn't.</p>\n<p><em>Third, the odd one:</em> tracking smoking — the second most popular feature — predicted a <em>lower</em> chance of quitting (OR 0.11, p = 0.04). The authors' explanation is that this is an artifact of how the feature worked: you only log cigarettes if you're smoking, so heavy use of the smoking tracker partly <em>is</em> continued smoking. It's a neat illustration of how a usage metric can be contaminated by the outcome itself.</p>"
+      },
+      "h": 134,
+      "expand": null
+    },
+    {
+      "id": "ueilwjd",
+      "paperId": "qvn2a1c",
+      "type": "Case Study",
+      "insight": "Retention: a mailed invitation with a $2 pre-incentive two weeks early; automated emails with the web survey on days 0, 5, and 9; up to eight daily phone calls on days 10–17; a paper survey with stamped return envelope on day 18; and at day 30 a postcard asking only the key outcome questions. <b>Payment was $25 per survey regardless of method, plus a $10 bonus for completing the web survey within 24 hours of an email.</b>",
+      "evidence": [
+        {
+          "page": 6,
+          "quote": "Retention StrategyFollow-up data were collected at 3, 6, and 12 months afterrandomization. To maximize data retention at each follow-upassessment, participants had up to 30 days to complete theassessments. Four survey modalities were sequentially timeduntil the survey was completed. Sequentially timing surveymodalities has been shown to improve response rates comparedto offering multiple survey modalities in parallel [42]. Themodalities were (1) Web, (2) telephone, (3) mailed survey, and(4) a postcard with selected outcomes.For each follow-up assessment, we utilized the followingstrategy until participants completed the survey. Two weeksbefore the Web-based follow-up survey was availableparticipants were mailed a survey invitation with a US $2preincentive. Participants were then sent up to three automatedemails with a link to the Web version of the survey on days 0(exactly 3, 6, or 12 months after randomization), 5, and 9.Afterward, participants had the opportunity to complete thesurvey via phone. Study staff called participants up to eighttimes, once per day on days 10-17. On day 18, if participantshad not completed the survey, study staff mailed a paper versionof the survey with a prestamped and addressed return envelope.If participants did not respond to any of the previous modalitiesby day 30, they were mailed a postcard that only inquired aboutprimary outcomes and a few selected secondary outcomes.We incentivized participants with US $25 for completing asurvey, regardless of modality. Additionally, to encourage timelyresponses, participants who completed the Web-based surveywithin 24 hours of any email received a US $10 bonus. Thus,participants received up to US $105 in incentives for completingfollow-up surveys",
+          "paperId": "qvn2a1c"
+        }
+      ],
+      "cells": {
+        "c_l70gfkn": ""
+      },
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "pjipawt",
+      "paperId": "6poctwk",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "ort1xe3",
+      "paperId": "",
+      "type": "Anti-case",
+      "insight": "<b>Conflating intrinsic and identified</b>",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    },
+    {
+      "id": "8mcwvc2",
+      "paperId": "ikaf4pr",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null,
+      "expand": null
+    }
+  ],
+  "removedCols": [
+    "summary"
+  ],
   "typeColors": {},
   "tagColors": {},
-  "papers": [],
+  "papers": [
+    {
+      "id": "i9jd26r",
+      "name": "1-s2.0-S1071581920300513-main",
+      "meta": {
+        "title": "Apps That Motivate: a Taxonomy of App Features Based on Self-Determination Theory",
+        "authors": [
+          {
+            "family": "Villalobos-Zúñiga",
+            "given": "Gabriela"
+          },
+          {
+            "family": "Cherubini",
+            "given": "Mauro"
+          }
+        ],
+        "year": "2020",
+        "venue": "International Journal of Human-Computer Studies",
+        "volume": "140",
+        "issue": "",
+        "pages": "102449",
+        "publisher": "Elsevier BV",
+        "doi": "10.1016/j.ijhcs.2020.102449",
+        "url": "https://doi.org/10.1016/j.ijhcs.2020.102449",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1016/j.amepre.2010.10.032",
+          "10.1111/1467-9280.00441",
+          "10.1037/0033-2909.117.3.497",
+          "10.1191/1478088706qp063oa",
+          "10.1016/j.chb.2015.01.038",
+          "10.1016/j.psychsport.2013.01.003",
+          "10.1145/3365665",
+          "10.1177/1090198112452126",
+          "10.1080/17437199.2014.941722",
+          "10.1037/h0030644",
+          "10.1016/0030-5073(72)90047-5",
+          "10.1016/s0065-2601(08)60130-6",
+          "10.1207/s15327965pli1104_01",
+          "10.1037/a0012801",
+          "10.1037/0033-2909.125.6.627",
+          "10.1016/s1041-6080(96)90013-8",
+          "10.1145/2212877.2212883",
+          "10.1111/j.0021-9029.2006.00102.x",
+          "10.1136/bmjopen-2016-012447",
+          "10.1177/0146167292182003",
+          "10.1177/0956797610378687",
+          "10.1007/s10964-013-9986-5",
+          "10.1177/1555412013496891",
+          "10.1186/s12966-015-0262-9",
+          "10.2196/mhealth.6286",
+          "10.53841/bpsicpr.2012.7.2.146",
+          "10.2196/jmir.7332",
+          "10.1007/s11031-004-2387-z",
+          "10.1249/jes.0000000000000008",
+          "10.1207/s15326985ep3301_1",
+          "10.1249/mss.0b013e3180616b27",
+          "10.3109/00952990.2014.977486",
+          "10.1002/job.2051",
+          "10.64628/aa.dm9e7utuv",
+          "10.1037/0278-6133.19.suppl1.5",
+          "10.1177/0146167288143010",
+          "10.1080/15332560902852052",
+          "10.1145/3314403",
+          "10.1007/s10865-016-9722-1",
+          "10.3390/ijerph15122838",
+          "10.1177/0146167206298564",
+          "10.2196/games.3413",
+          "10.1037/0003-066x.57.9.705",
+          "10.1111/jopy.12215",
+          "10.1080/02701367.1989.10607413",
+          "10.1177/109019818801500401",
+          "10.1007/s12160-013-9486-6",
+          "10.18356/597b6d3b-fr",
+          "10.1037/a0019388",
+          "10.1080/19368623.2016.1082454",
+          "10.1007/s11257-014-9149-8",
+          "10.1037/a0019545",
+          "10.7326/m15-1635",
+          "10.1145/3196830",
+          "10.1037/0022-006x.51.3.390",
+          "10.1007/s11031-017-9618-6",
+          "10.1145/3318142",
+          "10.1177/0146167296221003",
+          "10.2147/cia.s206974",
+          "10.1177/109019817400200405",
+          "10.1037/0003-066x.55.1.68",
+          "10.1037/0022-3514.43.3.450",
+          "10.1006/ceps.1999.1020",
+          "10.1007/s11031-006-9051-8",
+          "10.1086/691216",
+          "10.1037/0022-3514.80.2.325",
+          "10.1037/h0076855",
+          "10.2196/10120",
+          "10.1207/s15327957pspr0803_1",
+          "10.1111/j.1468-2958.2010.01377.x",
+          "10.1006/jesp.1999.1383",
+          "10.1037/0022-3514.86.6.849",
+          "10.1086/260971",
+          "10.1080/10413209908402956",
+          "10.1123/jsp.6.1.94",
+          "10.1037/0022-3514.87.2.246",
+          "10.1509/jppm.25.1.90",
+          "10.1287/mksc.17.4.317"
+        ],
+        "impact": 115,
+        "source": "Crossref"
+      },
+      "tags": [
+        "Review",
+        "SDT"
+      ],
+      "summary": "The taxonomy reported in this paper, we argue, provides a simple tool for designers to evaluate how specific features, and combination of features, may work to motivate users towards their desired goals.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "ar5xkk2",
+      "name": "Wellbeing Supportive Design   Research-Based Guidelines for Supporting Psychological Wellbeing in User Experience (2)",
+      "meta": {
+        "title": "Wellbeing Supportive Design – Research-Based Guidelines for Supporting Psychological Wellbeing in User Experience",
+        "authors": [
+          {
+            "family": "Peters",
+            "given": "Dorian"
+          }
+        ],
+        "year": "2022",
+        "venue": "International Journal of Human–Computer Interaction",
+        "volume": "39",
+        "issue": "14",
+        "pages": "2965-2977",
+        "publisher": "Informa UK Limited",
+        "doi": "10.1080/10447318.2022.2089812",
+        "url": "https://doi.org/10.1080/10447318.2022.2089812",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1037/a0024908",
+          "10.1145/3290605.3300233",
+          "10.1037/0022-3514.84.4.822",
+          "10.1145/1753326.1753613",
+          "10.1007/978-3-030-50585-1_2",
+          "10.1016/j.psychsport.2013.01.003",
+          "10.1007/s11031-014-9450-1",
+          "10.1177/0022022112466590",
+          "10.1016/j.jesp.2017.10.007",
+          "10.1007/s10648-018-9446-6",
+          "10.1016/b978-0-12-801851-4.00018-5",
+          "10.1016/j.actaastro.2015.12.055",
+          "10.3390/ijerph6092332",
+          "10.1016/j.paid.2014.08.012",
+          "10.1038/d41586-020-00296-x",
+          "10.1080/10447318.2015.1064664",
+          "10.1080/08870440701405704",
+          "10.1037/0022-3514.79.6.995",
+          "10.1080/1612197x.2020.1819368",
+          "10.1016/j.chb.2016.06.025",
+          "10.1016/j.edurev.2013.11.003",
+          "10.1016/j.ypmed.2008.09.013",
+          "10.1080/10463283.2020.1857082",
+          "10.1007/s11031-019-09800-x",
+          "10.1080/08927936.2019.1621516",
+          "10.1080/10447318.2020.1746061",
+          "10.1177/1477878509104318",
+          "10.1080/15213269.2012.673850",
+          "10.3389/fpsyg.2018.00797",
+          "10.1177/1089313x0901300102",
+          "10.5040/9798400658105",
+          "10.1037/0003-066x.55.1.68",
+          "10.1521/978.14625/28806",
+          "10.1891/9780826180094.0020",
+          "10.1348/014466607x238797",
+          "10.1080/17439760.2014.888583",
+          "10.1177/0146167203261883",
+          "10.1136/bmjopen-2018-023191",
+          "10.1177/0018720814553471",
+          "10.1037/mot0000172",
+          "10.1007/978-3-319-51645-5_22",
+          "10.1111/j.1540-4560.2009.01612.x",
+          "10.3390/mti4040071",
+          "10.1145/3411764.3445445",
+          "10.1007/s10902-017-9898-2",
+          "10.1057/jit.2015.5"
+        ],
+        "impact": 63,
+        "source": "Crossref"
+      },
+      "tags": [
+        "SDT"
+      ],
+      "summary": "To help address this gap, we draw on findings from over 30 years of research in psychology (specifically, self-determination theory) that has identified contextual factors shown to support psychological wellbeing.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "mt752ew",
+      "name": "teresa,+EHP_March_2008_SDT (1)",
+      "meta": {
+        "title": "Facilitating health behaviour change and its maintenance: Interventions based on Self-Determination Theory",
+        "authors": [
+          {
+            "family": "M. Ryan",
+            "given": "Richard"
+          },
+          {
+            "family": "Patrick",
+            "given": "Heather"
+          },
+          {
+            "family": "L. Deci",
+            "given": "Edward"
+          },
+          {
+            "family": "C. Williams",
+            "given": "Geoffrey"
+          }
+        ],
+        "year": "2008",
+        "venue": "Research Bank (Australian Catholic University)",
+        "volume": "10",
+        "issue": "1",
+        "pages": "2–5",
+        "publisher": "Australian Catholic University",
+        "doi": "",
+        "url": "https://researchbank.acu.edu.au/fhs_pub/4330",
+        "type": "article",
+        "abstract": "Despite many recent technical breakthroughs in health care, human behaviour remains the largest source of variance in health-related outcomes (Schroeder, 2007). People’s health and well-being are robustly affected by lifestyle factors such as smoking, hygiene, diet, and physical activity, all of which involve behaviours that are potentially controllable by the individual. In addition, outside of acute care settings, the effectiveness of most health care interventions is highly dependent on the patient’s adherence to self-care activities such as taking medications, performing self-examinations, or refraining from specific activities or habits. A significant problem is the poor adherence to prescribed changes or recommended behaviours over time.",
+        "oaId": "https://openalex.org/W1510265921",
+        "oaRefs": [
+          "https://openalex.org/W85513603",
+          "https://openalex.org/W1969819019",
+          "https://openalex.org/W1996823741",
+          "https://openalex.org/W2002948491",
+          "https://openalex.org/W2008839353",
+          "https://openalex.org/W2013203414",
+          "https://openalex.org/W2013606014",
+          "https://openalex.org/W2015119939",
+          "https://openalex.org/W2058225827",
+          "https://openalex.org/W2070683711",
+          "https://openalex.org/W2078710886",
+          "https://openalex.org/W2082601082",
+          "https://openalex.org/W2086110178",
+          "https://openalex.org/W2092042925",
+          "https://openalex.org/W2102880194",
+          "https://openalex.org/W2111420937",
+          "https://openalex.org/W2112347775",
+          "https://openalex.org/W2122517769",
+          "https://openalex.org/W2137956406",
+          "https://openalex.org/W2141846678",
+          "https://openalex.org/W2153403719",
+          "https://openalex.org/W2154051039",
+          "https://openalex.org/W2155069039",
+          "https://openalex.org/W2161463592",
+          "https://openalex.org/W2165883882",
+          "https://openalex.org/W2169975522",
+          "https://openalex.org/W2305825243"
+        ],
+        "impact": 455,
+        "source": "OpenAlex"
+      },
+      "tags": [
+        "Review"
+      ],
+      "summary": "Despite many recent technical breakthroughs in health care, human behaviour remains the largest source of variance in health-related outcomes (Schroeder, 2007). People’s health and well-being are robustly affected by lifestyle factors such as smoking, hygiene, diet, and physical activity, all of which involve behaviours that are potentially controllable by the individual. In addition, outside of acute care settings, the effectiveness of most health care interventions is highly dependent on the patient’s adherence to self-care activities such as taking medications, performing self-examinations, or refraining from specific activities or habits.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "49tdaji",
+      "name": "A Classification of Motivation and Behavior Change Techniques Used in Self-Determination Theory-Based Interventions in Health Contexts",
+      "meta": {
+        "title": "A classification of motivation and behavior change techniques used in self-determination theory-based interventions in health contexts.",
+        "authors": [
+          {
+            "family": "Teixeira",
+            "given": "Pedro J."
+          },
+          {
+            "family": "Marques",
+            "given": "Marta M."
+          },
+          {
+            "family": "Silva",
+            "given": "Marlene N."
+          },
+          {
+            "family": "Brunet",
+            "given": "Jennifer"
+          },
+          {
+            "family": "Duda",
+            "given": "Joan L."
+          },
+          {
+            "family": "Haerens",
+            "given": "Leen"
+          },
+          {
+            "family": "La Guardia",
+            "given": "Jennifer"
+          },
+          {
+            "family": "Lindwall",
+            "given": "Magnus"
+          },
+          {
+            "family": "Lonsdale",
+            "given": "Chris"
+          },
+          {
+            "family": "Markland",
+            "given": "David"
+          },
+          {
+            "family": "Michie",
+            "given": "Susan"
+          },
+          {
+            "family": "Moller",
+            "given": "Arlen C."
+          },
+          {
+            "family": "Ntoumanis",
+            "given": "Nikos"
+          },
+          {
+            "family": "Patrick",
+            "given": "Heather"
+          },
+          {
+            "family": "Reeve",
+            "given": "Johnmarshall"
+          },
+          {
+            "family": "Ryan",
+            "given": "Richard M."
+          },
+          {
+            "family": "Sebire",
+            "given": "Simon J."
+          },
+          {
+            "family": "Standage",
+            "given": "Martyn"
+          },
+          {
+            "family": "Vansteenkiste",
+            "given": "Maarten"
+          },
+          {
+            "family": "Weinstein",
+            "given": "Netta"
+          },
+          {
+            "family": "Weman-Josefsson",
+            "given": "Karin"
+          },
+          {
+            "family": "Williams",
+            "given": "Geoffrey C."
+          },
+          {
+            "family": "Hagger",
+            "given": "Martin S."
+          }
+        ],
+        "year": "2020",
+        "venue": "Motivation Science",
+        "volume": "6",
+        "issue": "4",
+        "pages": "438-455",
+        "publisher": "American Psychological Association (APA)",
+        "doi": "10.1037/mot0000172",
+        "url": "https://doi.org/10.1037/mot0000172",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [],
+        "impact": 325,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "0pz2242",
+      "name": "mental-2025-1-e69294",
+      "meta": {
+        "title": "Does the Digital Therapeutic Alliance Exist? Integrative Review",
+        "authors": [
+          {
+            "family": "Malouin-Lachance",
+            "given": "Amylie"
+          },
+          {
+            "family": "Capolupo",
+            "given": "Julien"
+          },
+          {
+            "family": "Laplante",
+            "given": "Chloé"
+          },
+          {
+            "family": "Hudon",
+            "given": "Alexandre"
+          }
+        ],
+        "year": "2025",
+        "venue": "JMIR Mental Health",
+        "volume": "12",
+        "issue": "",
+        "pages": "e69294-e69294",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/69294",
+        "url": "https://doi.org/10.2196/69294",
+        "type": "journal-article",
+        "abstract": "Abstract Background Mental health disorders significantly impact global populations, prompting the rise of digital mental health interventions, such as artificial intelligence (AI)-powered chatbots, to address gaps in access to care. This review explores the potential for a “digital therapeutic alliance (DTA),” emphasizing empathy, engagement, and alignment with traditional therapeutic principles to enhance user outcomes. Objective The primary objective of this review was to identify key concepts underlying the DTA in AI-driven psychotherapeutic interventions for mental health. The secondary objective was to propose an initial definition of the DTA based on these identified concepts. Methods The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) for scoping reviews and Tavares de Souza’s integrative review methodology were followed, encompassing systematic literature searches in Medline, Web of Science, PsycNet, and Google Scholar. Data from eligible studies were extracted and analyzed using Horvath et al’s conceptual framework on a therapeutic alliance, focusing on goal alignment, task agreement, and the therapeutic bond, with quality assessed using the Newcastle-Ottawa Scale and Cochrane Risk of Bias Tool. Results A total of 28 studies were identified from an initial pool of 1294 articles after excluding duplicates and ineligible studies. These studies informed the development of a conceptual framework for a DTA, encompassing key elements such as goal alignment, task agreement, therapeutic bond, user engagement, and the facilitators and barriers affecting therapeutic outcomes. The interventions primarily focused on AI-powered chatbots, digital psychotherapy, and other digital tools. Conclusions The findings of this integrative review provide a foundational framework for the concept of a DTA and report its potential to replicate key therapeutic mechanisms such as empathy, trust, and collaboration in AI-driven psychotherapeutic tools. While the DTA shows promise in enhancing accessibility and engagement in mental health care, further research and innovation are needed to address challenges such as personalization, ethical concerns, and long-term impact.",
+        "refs": [
+          "10.1080/09540261.2022.2040450",
+          "10.2139/ssrn.4103145",
+          "10.1016/j.jagp.2016.11.004",
+          "10.1177/0840470420933911",
+          "10.1177/0706743717714467",
+          "10.1177/07067437241245384",
+          "10.1017/sjp.2022.2",
+          "10.1136/eb-2018-102891",
+          "10.1016/j.invent.2017.10.002",
+          "10.1586/ern.12.63",
+          "10.1016/j.invent.2014.08.003",
+          "10.3389/fdgth.2020.576361",
+          "10.1016/j.jad.2024.04.057",
+          "10.2196/16021",
+          "10.1037/0022-006x.61.4.561",
+          "10.1037/0022-006x.68.3.438",
+          "10.1037/pst0000172",
+          "10.1177/00030651000480011001",
+          "10.1002/jclp.23519",
+          "10.2196/50025",
+          "10.61838/kman.aitech.1.2.4",
+          "10.1016/j.chbah.2024.100067",
+          "10.1080/17434440.2021.2013200",
+          "10.1016/j.psychres.2024.116026",
+          "10.3389/fdgth.2022.847991",
+          "10.1590/s1679-45082010rw1134",
+          "10.1007/s41347-022-00263-5",
+          "10.1177/0011000009359313",
+          "10.1176/appi.focus.20180022",
+          "10.3389/fpsyg.2022.915932",
+          "10.1016/j.cpr.2014.06.002",
+          "10.3389/fpsyg.2011.00270",
+          "10.1186/s40359-019-0347-3",
+          "10.1037/cou0000106",
+          "10.1007/s10654-010-9491-z",
+          "10.1136/bmj.d5928",
+          "10.2196/40789",
+          "10.1186/s12889-022-13115-x",
+          "10.1145/3568162.3578625",
+          "10.3389/fdgth.2022.989022",
+          "10.1016/j.jad.2022.09.028",
+          "10.2196/46473",
+          "10.1177/02692155231216615",
+          "10.1016/j.invent.2022.100495",
+          "10.1177/07067437241274201",
+          "10.2196/60589",
+          "10.2196/47515",
+          "10.1037/cou0000382",
+          "10.1177/10731911211015310",
+          "10.1097/pra.0000000000000748",
+          "10.1089/rej.2018.2075",
+          "10.1108/mhsi-02-2023-0020",
+          "10.2196/38876",
+          "10.15167/2421-4248/jpmh2023.64.4.3135",
+          "10.2196/56114",
+          "10.1016/j.invent.2023.100668",
+          "10.2196/37877",
+          "10.3389/fgwh.2023.1084302",
+          "10.1177/00187208231162453",
+          "10.1177/20552076241277712",
+          "10.1016/j.invent.2024.100783",
+          "10.2196/28003",
+          "10.7861/fhj.2021-0095",
+          "10.3389/fdgth.2021.689736",
+          "10.1192/bjo.2018.86",
+          "10.2196/58493"
+        ],
+        "impact": 80,
+        "source": "Crossref"
+      },
+      "tags": [
+        "Review"
+      ],
+      "summary": "A total of 28 studies were identified from an initial pool of 1294 articles after excluding duplicates and ineligible studies.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "rofgqdg",
+      "name": "The definition and measurement of engagement and adherence for digital mental health interventions  an umbrella review (1)",
+      "meta": {
+        "title": "The definition and measurement of engagement and adherence for digital mental health interventions: an umbrella review",
+        "authors": [
+          {
+            "family": "Yap",
+            "given": "Lyen Krenz"
+          },
+          {
+            "family": "Ennis",
+            "given": "Edel"
+          },
+          {
+            "family": "Mulvenna",
+            "given": "Maurice"
+          },
+          {
+            "family": "Martinez",
+            "given": "Jorge"
+          }
+        ],
+        "year": "2026",
+        "venue": "Behaviour & Information Technology",
+        "volume": "",
+        "issue": "",
+        "pages": "1-20",
+        "publisher": "Informa UK Limited",
+        "doi": "10.1080/0144929x.2026.2696826",
+        "url": "https://doi.org/10.1080/0144929x.2026.2696826",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1177/1460458219896492",
+          "10.1016/j.janxdis.2018.01.001s",
+          "10.1111/bdi.13243",
+          "10.1177/20552076221144104",
+          "10.46658/jbimes-20-01",
+          "10.1097/01.naj.0000446779.99522.f6",
+          "10.1097/psy.0000000000001230",
+          "10.2196/25716",
+          "10.3389/fdgth.2023.1040739",
+          "10.2196/14567",
+          "10.2196/40347",
+          "10.2196/48964",
+          "10.2196/14181",
+          "10.1176/appi.ps.201700283",
+          "10.1007/s12529-022-10086-6",
+          "10.1016/j.janxdis.2022.102638",
+          "10.1038/s44184-023-00033-y",
+          "10.2196/24387",
+          "10.2196/37342",
+          "10.1186/s44247-024-00105-9",
+          "10.1177/20552076241239172",
+          "10.2196/mental.5710",
+          "10.2196/jmir.7583",
+          "10.1111/jocn.16212",
+          "10.2196/27751",
+          "10.2196/36620",
+          "10.1002/jclp.23523",
+          "10.2196/43882",
+          "10.1186/s12874-024-02308-0",
+          "10.1037/ccp0000759",
+          "10.2196/18100",
+          "10.2196/jmir.9275",
+          "10.2196/43727",
+          "10.3389/fdgth.2021.764079",
+          "10.3389/fpsyt.2019.00759",
+          "10.31219/osf.io/n6rvx",
+          "10.1002/jrsm.1563",
+          "10.1002/capr.12371",
+          "10.1002/9781119959847",
+          "10.1007/s00787-024-02386-x",
+          "10.2196/47198",
+          "10.2196/49384",
+          "10.1371/journal.pone.0298977",
+          "10.1038/s41746-023-00800-3",
+          "10.2196/36004",
+          "10.1016/j.jclinepi.2021.02.003",
+          "10.2196/37640",
+          "10.1016/j.chbah.2024.100081",
+          "10.1016/j.brat.2023.104421",
+          "10.1037/ccp0000459",
+          "10.1037/ccp0000575",
+          "10.1007/s40501-023-00297-3",
+          "10.2196/39204",
+          "10.2196/16317",
+          "10.2196/15942",
+          "10.46658/jbimes-20-03",
+          "10.1016/bs.dnb.2020.03.003",
+          "10.2196/20709",
+          "10.1177/1049731514549423",
+          "10.1016/j.invent.2021.100454",
+          "10.1037/bul0000334",
+          "10.1037/amp0000983",
+          "10.1176/appi.ps.201800519",
+          "10.2196/49660",
+          "10.1016/j.invent.2021.100468",
+          "10.1136/bmj.n71",
+          "10.3390/su15010872",
+          "10.1186/s40345-021-00224-6",
+          "10.1002/cpp.2989",
+          "10.1590/1516-3180.2020.138527102020",
+          "10.1007/s40894-023-00224-w",
+          "10.2196/33545",
+          "10.2196/12244",
+          "10.2196/48991",
+          "10.1016/j.hlpt.2022.100686",
+          "10.1177/20552076231203876",
+          "10.3389/fdgth.2022.1023592",
+          "10.1038/s41746-025-01778-w",
+          "10.7870/cjcmh-2015-006",
+          "10.2196/17572",
+          "10.1007/s11920-024-01545-w",
+          "10.1186/1471-2288-8",
+          "10.1016/j.beth.2020.07.002",
+          "10.24193/jebp.2021.2.11",
+          "10.1038/s41746-025-01567-5",
+          "10.1186/s13034-024-00724-0",
+          "10.2196/49431",
+          "10.1016/j.ijmedinf.2016.04.005",
+          "10.3390/socsci10110416",
+          "10.2196/30026",
+          "10.1371/journal.pone.0274177",
+          "10.2196/73438",
+          "10.1080/17437199.2025.2547610",
+          "10.1089/tmj.2020.0068"
+        ],
+        "impact": 0,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "Showed that adherence and engagement were often undefined.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "7du2217",
+      "name": "The definition and measurement of engagement and adherence for digital mental health interventions  an umbrella review",
+      "meta": {
+        "title": "The definition and measurement of engagement and adherence for digital mental health interventions: an umbrella review",
+        "authors": [
+          {
+            "family": "Yap",
+            "given": "Lyen Krenz"
+          },
+          {
+            "family": "Ennis",
+            "given": "Edel"
+          },
+          {
+            "family": "Mulvenna",
+            "given": "Maurice"
+          },
+          {
+            "family": "Martinez",
+            "given": "Jorge"
+          }
+        ],
+        "year": "2026",
+        "venue": "Behaviour & Information Technology",
+        "volume": "",
+        "issue": "",
+        "pages": "1-20",
+        "publisher": "Informa UK Limited",
+        "doi": "10.1080/0144929x.2026.2696826",
+        "url": "https://doi.org/10.1080/0144929x.2026.2696826",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1177/1460458219896492",
+          "10.1016/j.janxdis.2018.01.001s",
+          "10.1111/bdi.13243",
+          "10.1177/20552076221144104",
+          "10.46658/jbimes-20-01",
+          "10.1097/01.naj.0000446779.99522.f6",
+          "10.1097/psy.0000000000001230",
+          "10.2196/25716",
+          "10.3389/fdgth.2023.1040739",
+          "10.2196/14567",
+          "10.2196/40347",
+          "10.2196/48964",
+          "10.2196/14181",
+          "10.1176/appi.ps.201700283",
+          "10.1007/s12529-022-10086-6",
+          "10.1016/j.janxdis.2022.102638",
+          "10.1038/s44184-023-00033-y",
+          "10.2196/24387",
+          "10.2196/37342",
+          "10.1186/s44247-024-00105-9",
+          "10.1177/20552076241239172",
+          "10.2196/mental.5710",
+          "10.2196/jmir.7583",
+          "10.1111/jocn.16212",
+          "10.2196/27751",
+          "10.2196/36620",
+          "10.1002/jclp.23523",
+          "10.2196/43882",
+          "10.1186/s12874-024-02308-0",
+          "10.1037/ccp0000759",
+          "10.2196/18100",
+          "10.2196/jmir.9275",
+          "10.2196/43727",
+          "10.3389/fdgth.2021.764079",
+          "10.3389/fpsyt.2019.00759",
+          "10.31219/osf.io/n6rvx",
+          "10.1002/jrsm.1563",
+          "10.1002/capr.12371",
+          "10.1002/9781119959847",
+          "10.1007/s00787-024-02386-x",
+          "10.2196/47198",
+          "10.2196/49384",
+          "10.1371/journal.pone.0298977",
+          "10.1038/s41746-023-00800-3",
+          "10.2196/36004",
+          "10.1016/j.jclinepi.2021.02.003",
+          "10.2196/37640",
+          "10.1016/j.chbah.2024.100081",
+          "10.1016/j.brat.2023.104421",
+          "10.1037/ccp0000459",
+          "10.1037/ccp0000575",
+          "10.1007/s40501-023-00297-3",
+          "10.2196/39204",
+          "10.2196/16317",
+          "10.2196/15942",
+          "10.46658/jbimes-20-03",
+          "10.1016/bs.dnb.2020.03.003",
+          "10.2196/20709",
+          "10.1177/1049731514549423",
+          "10.1016/j.invent.2021.100454",
+          "10.1037/bul0000334",
+          "10.1037/amp0000983",
+          "10.1176/appi.ps.201800519",
+          "10.2196/49660",
+          "10.1016/j.invent.2021.100468",
+          "10.1136/bmj.n71",
+          "10.3390/su15010872",
+          "10.1186/s40345-021-00224-6",
+          "10.1002/cpp.2989",
+          "10.1590/1516-3180.2020.138527102020",
+          "10.1007/s40894-023-00224-w",
+          "10.2196/33545",
+          "10.2196/12244",
+          "10.2196/48991",
+          "10.1016/j.hlpt.2022.100686",
+          "10.1177/20552076231203876",
+          "10.3389/fdgth.2022.1023592",
+          "10.1038/s41746-025-01778-w",
+          "10.7870/cjcmh-2015-006",
+          "10.2196/17572",
+          "10.1007/s11920-024-01545-w",
+          "10.1186/1471-2288-8",
+          "10.1016/j.beth.2020.07.002",
+          "10.24193/jebp.2021.2.11",
+          "10.1038/s41746-025-01567-5",
+          "10.1186/s13034-024-00724-0",
+          "10.2196/49431",
+          "10.1016/j.ijmedinf.2016.04.005",
+          "10.3390/socsci10110416",
+          "10.2196/30026",
+          "10.1371/journal.pone.0274177",
+          "10.2196/73438",
+          "10.1080/17437199.2025.2547610",
+          "10.1089/tmj.2020.0068"
+        ],
+        "impact": 0,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "Showed that adherence and engagement were often undefined.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "sts5dp6",
+      "name": "1-s2.0-S0749379716302434-main",
+      "meta": {
+        "title": "Understanding and Promoting Effective Engagement With Digital Behavior Change Interventions",
+        "authors": [
+          {
+            "family": "Yardley",
+            "given": "Lucy"
+          },
+          {
+            "family": "Spring",
+            "given": "Bonnie J."
+          },
+          {
+            "family": "Riper",
+            "given": "Heleen"
+          },
+          {
+            "family": "Morrison",
+            "given": "Leanne G."
+          },
+          {
+            "family": "Crane",
+            "given": "David H."
+          },
+          {
+            "family": "Curtis",
+            "given": "Kristina"
+          },
+          {
+            "family": "Merchant",
+            "given": "Gina C."
+          },
+          {
+            "family": "Naughton",
+            "given": "Felix"
+          },
+          {
+            "family": "Blandford",
+            "given": "Ann"
+          }
+        ],
+        "year": "2016",
+        "venue": "American Journal of Preventive Medicine",
+        "volume": "51",
+        "issue": "5",
+        "pages": "833-842",
+        "publisher": "Elsevier BV",
+        "doi": "10.1016/j.amepre.2016.06.015",
+        "url": "https://doi.org/10.1016/j.amepre.2016.06.015",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1016/j.amepre.2016.07.019",
+          "10.2196/jmir.7.1.e11",
+          "10.2196/jmir.2665",
+          "10.1177/1046878114553571",
+          "10.1002/asi.20801",
+          "10.1089/tmj.2011.0062",
+          "10.2196/jmir.3077",
+          "10.1007/s12160-009-9133-4",
+          "10.2196/jmir.3620",
+          "10.2196/jmir.1367",
+          "10.2196/jmir.2104",
+          "10.1097/ncn.0b013e3182065eed",
+          "10.1016/j.amepre.2016.06.013",
+          "10.2196/jmir.1376",
+          "10.1111/obr.12396",
+          "10.2196/jmir.2952",
+          "10.1007/s12160-009-9129-0",
+          "10.2196/jmir.1002",
+          "10.2196/jmir.2991",
+          "10.1145/2858036.2858290",
+          "10.1016/j.ijmedinf.2016.02.010",
+          "10.1037/hea0000278",
+          "10.1016/j.chb.2014.05.022",
+          "10.2196/jmir.2508",
+          "10.2196/jmir.2156",
+          "10.2196/jmir.3579",
+          "10.1016/j.amepre.2016.06.008",
+          "10.1037/a0038620",
+          "10.1177/1559325816637515",
+          "10.2196/jmir.4391",
+          "10.1504/ijaacs.2013.050694",
+          "10.1371/journal.pone.0057067",
+          "10.1111/bjhp.12125",
+          "10.2196/jmir.1672",
+          "10.2196/jmir.4055",
+          "10.1016/j.jneb.2015.12.006",
+          "10.1111/jcc4.12044",
+          "10.1080/10810730.2013.840699",
+          "10.1177/0272989x10385845",
+          "10.1177/1460458214534092",
+          "10.2196/jmir.4999",
+          "10.1037/hea0000304",
+          "10.1016/j.copsyc.2015.03.024",
+          "10.1080/10810730.2013.768727",
+          "10.1037/0003-066x.55.1.68",
+          "10.1007/bf02895958",
+          "10.1016/j.invent.2014.08.003",
+          "10.1016/j.brat.2015.06.013",
+          "10.1016/j.cpr.2010.09.008",
+          "10.1371/journal.pone.0099912",
+          "10.1016/j.smrv.2015.10.004",
+          "10.1371/journal.pone.0084323",
+          "10.2196/jmir.3035",
+          "10.2196/jmir.1602",
+          "10.1186/s12888-014-0355-z",
+          "10.1093/her/cyr099",
+          "10.1001/jamainternmed.2013.1221"
+        ],
+        "impact": 1114,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "x9xt54h",
+      "name": "A refined taxonomy of behaviour change techniques to help people change their physical activity and healthy eating behaviours  The CALO-RE taxonomy",
+      "meta": {
+        "title": "A refined taxonomy of behaviour change techniques to help people change their physical activity and healthy eating behaviours: The CALO-RE taxonomy",
+        "authors": [
+          {
+            "family": "Michie",
+            "given": "Susan"
+          },
+          {
+            "family": "Ashford",
+            "given": "Stefanie"
+          },
+          {
+            "family": "Sniehotta",
+            "given": "Falko F."
+          },
+          {
+            "family": "Dombrowski",
+            "given": "Stephan U."
+          },
+          {
+            "family": "Bishop",
+            "given": "Alex"
+          },
+          {
+            "family": "French",
+            "given": "David P."
+          }
+        ],
+        "year": "2011",
+        "venue": "Psychology & Health",
+        "volume": "26",
+        "issue": "11",
+        "pages": "1479-1498",
+        "publisher": "Informa UK Limited",
+        "doi": "10.1080/08870446.2010.540664",
+        "url": "https://doi.org/10.1080/08870446.2010.540664",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1037/0278-6133.27.3.379",
+          "10.1007/s10897-009-9221-4",
+          "10.1080/08870440802040707",
+          "10.1348/135910709x461752",
+          "10.3310/hta8210",
+          "10.1111/j.1365-3156.2009.02373.x",
+          "10.1017/cbo9781139174794",
+          "10.1136/bmj.a1655",
+          "10.1037/a0015989",
+          "10.1080/08870440701520973",
+          "10.1080/17437199.2010.513298",
+          "10.1016/j.socscimed.2010.01.039",
+          "10.1136/bmj.39590.732037.47",
+          "10.1348/135910708x397034",
+          "10.1348/135910708x369558",
+          "10.2337/dc09-0363",
+          "10.1111/j.1467-789x.2008.00468.x",
+          "10.1177/1359105309103567",
+          "10.1111/j.1360-0443.2007.02112.x",
+          "10.1037/a0016136",
+          "10.1007/s12160-010-9235-z",
+          "10.1186/1748-5908-4-40",
+          "10.1080/08870440701670588",
+          "10.1136/jech.2008.078725",
+          "10.1111/j.1464-0597.2008.00341.x",
+          "10.1080/14768320701233582",
+          "10.1136/bmj.39198.722720.be",
+          "10.1186/1479-5868-5-53",
+          "10.1111/j.1600-0757.2009.00314.x",
+          "10.1186/1479-5868-4-59",
+          "10.1186/1472-6963-9-103",
+          "10.4278/0890-1171-19.2.81",
+          "10.1111/j.1758-0854.2009.01013.x",
+          "10.1348/135910708x389042",
+          "10.2105/ajph.91.2.265",
+          "10.1001/jama.289.14.1833",
+          "10.1093/ntr/ntq074"
+        ],
+        "impact": 1466,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "zqfz6xf",
+      "name": "s43856-025-01296-6",
+      "meta": {
+        "title": "Motivational effectiveness of prosocial public health messaging to reduce respiratory infection risk: a systematic review and meta-analysis",
+        "authors": [
+          {
+            "family": "Grimani",
+            "given": "Aikaterini"
+          },
+          {
+            "family": "Antonopoulou",
+            "given": "Vivi"
+          },
+          {
+            "family": "Meader",
+            "given": "Nicholas"
+          },
+          {
+            "family": "Bonell",
+            "given": "Chris"
+          },
+          {
+            "family": "Michie",
+            "given": "Susan"
+          },
+          {
+            "family": "Kelly",
+            "given": "Michael P."
+          },
+          {
+            "family": "Vlaev",
+            "given": "Ivo"
+          }
+        ],
+        "year": "2025",
+        "venue": "Communications Medicine",
+        "volume": "6",
+        "issue": "1",
+        "pages": "",
+        "publisher": "Springer Science and Business Media LLC",
+        "doi": "10.1038/s43856-025-01296-6",
+        "url": "https://doi.org/10.1038/s43856-025-01296-6",
+        "type": "journal-article",
+        "abstract": "Abstract Background Clear communication is essential for the effective uptake of public health interventions promoting protective behaviours for respiratory infection control. The emergence of novel infectious diseases, particularly the COVID-19 pandemic, has highlighted the need for rapid adaptation of established and new behavioural practices. However, there remains limited knowledge concerning effective strategies for disseminating risk-reduction information and predicting population responses. Methods This systematic review and meta-analysis (PROSPERO: CRD42020198874) assessed the effectiveness of these interventions using behavioural science frameworks, including MINDSPACE contextual influencers and behaviour change techniques (BCTs), to identify key components and mechanisms of action (MoAs). Twenty-four full-text articles, comprising 36 randomised controlled trials (RCTs) across 11 countries, were included via electronic databases (MEDLINE, EMBASE, PsycINFO, Scopus) and other sources (grey literature, Google Scholar, and reference lists) searched to March 2022. Results Here, we show that interventions mainly target social distancing, mask wearing, hand washing, and various behavioural intentions and actual behaviours, using a median of three-arm study designs with passive comparators. Interventions include a median of two contextual influencers and four BCTs. Behaviour intention is the most frequently applied mechanism of action. Study quality is moderate. Narrative synthesis of 16 full-texts (26 RCTs) shows significant effects, while network meta-analysis of 16 full-texts (21 RCTs) indicates that prosocial messages, particularly those referencing loved ones, are effective in reducing the risk of respiratory infections (d = 0.09; 95% CrI=0.06–0.14; CINeMA: Low). Conclusions Although further research is needed, the review provides insight into designing public health messages that effectively improve protective behaviours for respiratory infection control.",
+        "refs": [
+          "10.1037/xap0000416",
+          "10.1093/abm/kaab107",
+          "10.1016/j.jhealeco.2022.102589",
+          "10.1038/s41562-021-01155-z",
+          "10.1111/bjhp.12542",
+          "10.1186/1471-2458-14-589",
+          "10.1348/135910710x485826",
+          "10.5055/jem.2020.0461",
+          "10.1002/hpja.333",
+          "10.1080/10410236.2013.832830",
+          "10.1136/jech-2020-214290",
+          "10.31234/osf.io/9yqs8",
+          "10.1080/10810730.2015.1012236",
+          "10.1177/0956797611419172",
+          "10.1146/annurev.psych.56.091103.070141",
+          "10.1136/bmjopen-2020-044763",
+          "10.1016/j.jpubeco.2021.104367",
+          "10.7193/dm.085.13.27",
+          "10.1136/bmjgh-2020-002780",
+          "10.1136/bmjopen-2021-048750",
+          "10.1371/journal.pone.0159780",
+          "10.1371/journal.pone.0264782",
+          "10.7326/m14-2385",
+          "10.1037/amp0000191",
+          "10.1093/pubmed/fdac036",
+          "10.1136/amiajnl-2010-000055",
+          "10.1186/s12913-014-0579-0",
+          "10.1371/journal.pone.0138237",
+          "10.1186/2047-2382-3-3",
+          "10.1186/2046-4053-4-1",
+          "10.2307/2786945",
+          "10.1136/bmj.l4898",
+          "10.1016/j.joep.2011.10.009",
+          "10.1111/puar.12564",
+          "10.1186/1748-5908-6-42",
+          "10.3310/hta19990",
+          "10.1111/bjhp.12479",
+          "10.1007/s12160-013-9486-6",
+          "10.1037/gpr0000029",
+          "10.1186/s13012-017-0641-5",
+          "10.12688/wellcomeopenres.15902.1",
+          "10.1038/ijo.2013.107",
+          "10.1007/s11739-016-1583-7",
+          "10.1002/9781119536604.ch11",
+          "10.1002/9781118951651",
+          "10.1002/sim.6188",
+          "10.1093/aje/kwp014",
+          "10.1016/j.jclinepi.2018.02.012",
+          "10.1371/journal.pmed.1003082",
+          "10.1002/cl2.1080",
+          "10.1017/s1930297500008226",
+          "10.1371/journal.pone.0284354",
+          "10.1371/journal.pone.0260457",
+          "10.3389/fpsyg.2021.579164",
+          "10.1017/sjp.2021.39",
+          "10.1080/10410236.2022.2043024",
+          "10.1016/j.paid.2020.110420",
+          "10.1038/s41598-021-97617-5",
+          "10.1177/1948550620947853",
+          "10.1080/13548506.2011.564188",
+          "10.3389/fpsyg.2021.605059",
+          "10.1177/0956797620964422",
+          "10.1007/s42973-021-00076-w",
+          "10.1037/emo0001077",
+          "10.2196/jmir.1963",
+          "10.1101/2020.03.27.20042820",
+          "10.31234/osf.io/thm2w",
+          "10.31234/osf.io/nyvmg",
+          "10.1111/spc3.12265",
+          "10.1080/01621459.1990.10474964",
+          "10.1186/s12889-021-10816-7",
+          "10.1080/14792772143000003",
+          "10.1089/pop.2021.0269",
+          "10.3390/ijerph13010129",
+          "10.1007/s12144-021-02657-9",
+          "10.1371/journal.pone.0162765",
+          "10.1111/add.15056",
+          "10.1111/bjhp.12458",
+          "10.1177/1559827616638017",
+          "10.1080/08870440512331317670",
+          "10.1136/bmj.n71"
+        ],
+        "impact": 2,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "Abstract Background Clear communication is essential for the effective uptake of public health interventions promoting protective behaviours for respiratory infection control. Interventions include a median of two contextual influencers and four BCTs. Narrative synthesis of 16 full-texts (26 RCTs) shows significant effects, while network meta-analysis of 16 full-texts (21 RCTs) indicates that prosocial messages, particularly those referencing loved ones, are effective in reducing the risk of respiratory infections (d = 0.09; 95% CrI=0.06–0.14; CINeMA: Low).",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "nwlz5qs",
+      "name": "wellcomeopenres-8-23771",
+      "meta": {
+        "title": "The Behaviour Change Technique Ontology: Transforming the Behaviour Change Technique Taxonomy v1",
+        "authors": [
+          {
+            "family": "Marques",
+            "given": "Marta M."
+          },
+          {
+            "family": "Wright",
+            "given": "Alison J."
+          },
+          {
+            "family": "Corker",
+            "given": "Elizabeth"
+          },
+          {
+            "family": "Johnston",
+            "given": "Marie"
+          },
+          {
+            "family": "West",
+            "given": "Robert"
+          },
+          {
+            "family": "Hastings",
+            "given": "Janna"
+          },
+          {
+            "family": "Zhang",
+            "given": "Lisa"
+          },
+          {
+            "family": "Michie",
+            "given": "Susan"
+          }
+        ],
+        "year": "2023",
+        "venue": "Wellcome Open Research",
+        "volume": "8",
+        "issue": "",
+        "pages": "308",
+        "publisher": "F1000 Research Ltd",
+        "doi": "10.12688/wellcomeopenres.19363.1",
+        "url": "https://doi.org/10.12688/wellcomeopenres.19363.1",
+        "type": "journal-article",
+        "abstract": "Background: The Behaviour Change Technique Taxonomy v1 (BCTTv1) specifies the potentially active content of behaviour change interventions. Evaluation of BCTTv1 showed the need to extend it into a formal ontology, improve its labels and definitions, add BCTs and subdivide existing BCTs. We aimed to develop a Behaviour Change Technique Ontology (BCTO) that would meet these needs. Methods : The BCTO was developed by: (1) collating and synthesising feedback from multiple sources; (2) extracting information from published studies and classification systems; (3) multiple iterations of reviewing and refining entities, and their labels, definitions and relationships; (4) refining the ontology via expert stakeholder review of its comprehensiveness and clarity; (5) testing whether researchers could reliably apply the ontology to identify BCTs in intervention reports; and (6) making it available online and creating a machine-readable version. Results : Initially there were 282 proposed changes to BCTTv1. Following first-round review, 19 BCTs were split into two or more BCTs, 27 new BCTs were added and 26 BCTs were moved into a different group, giving 161 BCTs hierarchically organised into 12 logically defined higher-level groups in up to five hierarchical levels. Following expert stakeholder review, the refined ontology had 247 BCTs hierarchically organised into 20 higher-level groups. Independent annotations of intervention evaluation reports by researchers familiar and unfamiliar with the ontology resulted in good levels of inter-rater reliability (0.82 and 0.79, respectively). Following revision informed by this exercise, 34 BCTs were added, resulting in a final version of the BCTO containing 281 BCTs organised into 20 higher-level groups over five hierarchical levels. Discussion : The BCT Ontology provides a standard terminology and comprehensive classification system for the content of behaviour change interventions that can be reliably used to describe interventions.",
+        "refs": [
+          "10.1007/978-3-540-24750-0_4",
+          "10.1111/obr.13258",
+          "10.12688/wellcomeopenres.18002.2",
+          "10.1207/s15427633scc0401_5",
+          "10.1007/978-1-4939-3743-1_1",
+          "10.1080/19312450709336664",
+          "10.1186/s13326-017-0169-2",
+          "10.1186/s12859-019-3002-3",
+          "10.1093/tbm/ibaa050",
+          "10.12688/wellcomeopenres.15906.2",
+          "10.3310/hsdr09010",
+          "10.1007/s12160-013-9486-6",
+          "10.1186/s13012-017-0641-5",
+          "10.12688/wellcomeopenres.15900.1",
+          "10.1186/1748-5908-6-42",
+          "10.12688/wellcomeopenres.15902.2",
+          "10.32388/ygif9b",
+          "10.1093/tbm/ibx019",
+          "10.3310/hta19990",
+          "10.1038/s41562-018-0511-4",
+          "10.12688/wellcomeopenres.15904.1",
+          "10.12688/wellcomeopenres.16682.1",
+          "10.1038/nbt1346",
+          "10.1111/j.1746-8361.2004.tb00305.x",
+          "10.1007/978-3-540-92673-3_13",
+          "10.12688/wellcomeopenres.15908.3"
+        ],
+        "impact": 123,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "umoov7j",
+      "name": "1748-5908-6-42",
+      "meta": {
+        "title": "Welcome to Implementation Science",
+        "authors": [
+          {
+            "family": "Eccles",
+            "given": "Martin"
+          },
+          {
+            "family": "S. Mittman",
+            "given": "Brian"
+          }
+        ],
+        "year": "2006",
+        "venue": "Implementation Science",
+        "volume": "1",
+        "issue": "1",
+        "pages": "",
+        "publisher": "BioMed Central",
+        "doi": "10.1186/1748-5908-1-1",
+        "url": "https://doi.org/10.1186/1748-5908-1-1",
+        "type": "article",
+        "abstract": "Implementation research is the scientific study of methods to promote the systematic uptake of research findings and other evidence-based practices into routine practice, and, hence, to improve the quality and effectiveness of health services and care. This relatively new field includes the study of influences on healthcare professional and organisational behaviour. Implementation Science will encompass all aspects of research in this field, in clinical, community and policy contexts. This online journal will provide a unique platform for this type of research and will publish a broad range of articles – study protocols, debate, theoretical and conceptual articles, rigorous evaluations of the process of change, and articles on methodology and rigorously developed tools – that will enhance the development and refinement of implementation research. No one discipline, research design, or paradigm will be favoured. Implementation Science looks forward to receiving manuscripts that facilitate the continued development of the field, and contribute to healthcare policy and practice.",
+        "oaId": "https://openalex.org/W2130780981",
+        "oaRefs": [
+          "https://openalex.org/W1964311624",
+          "https://openalex.org/W2075201294",
+          "https://openalex.org/W2120406111",
+          "https://openalex.org/W2136636673",
+          "https://openalex.org/W2168551930",
+          "https://openalex.org/W4231657962"
+        ],
+        "impact": 2288,
+        "source": "OpenAlex"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "z13wn7m",
+      "name": "12160_2013_article_9486",
+      "meta": {
+        "title": "The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions",
+        "authors": [
+          {
+            "family": "Michie",
+            "given": "Susan"
+          },
+          {
+            "family": "Richardson",
+            "given": "Michelle"
+          },
+          {
+            "family": "Johnston",
+            "given": "Marie"
+          },
+          {
+            "family": "Abraham",
+            "given": "Charles"
+          },
+          {
+            "family": "Francis",
+            "given": "Jill"
+          },
+          {
+            "family": "Hardeman",
+            "given": "Wendy"
+          },
+          {
+            "family": "Eccles",
+            "given": "Martin P."
+          },
+          {
+            "family": "Cane",
+            "given": "James"
+          },
+          {
+            "family": "Wood",
+            "given": "Caroline E."
+          }
+        ],
+        "year": "2013",
+        "venue": "Annals of Behavioral Medicine",
+        "volume": "46",
+        "issue": "1",
+        "pages": "81-95",
+        "publisher": "Oxford University Press (OUP)",
+        "doi": "10.1007/s12160-013-9486-6",
+        "url": "https://doi.org/10.1007/s12160-013-9486-6",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1136/bmj.a1655",
+          "10.1207/s15324796abm2603_01",
+          "10.7326/0003-4819-148-4-200802190-00008",
+          "10.1111/j.1464-0597.2008.00341.x",
+          "10.1080/08870440701670588",
+          "10.1037/0033-2909.131.6.856",
+          "10.1038/sj.ijo.0801100",
+          "10.1093/ntr/ntq074",
+          "10.1037/0278-6133.27.3.379",
+          "10.1186/1748-5908-6-10",
+          "10.1037/a0016136",
+          "10.1016/j.addbeh.2010.11.016",
+          "10.1111/j.1360-0443.2012.03845.x",
+          "10.1002/14651858.cd000259.pub3",
+          "10.1080/08870440802040707",
+          "10.1016/j.socscimed.2010.01.039",
+          "10.1136/jech.2008.078725",
+          "10.1002/14651858.cd003440.pub3",
+          "10.1007/s12160-010-9235-z",
+          "10.1080/17437199.2011.641101",
+          "10.1037/a0015989",
+          "10.1080/17437199.2010.513298",
+          "10.1080/17437199.2012.654964",
+          "10.1016/0038-0121(71)90041-3",
+          "10.18637/jss.v025.i04",
+          "10.1093/bioinformatics/btl117",
+          "10.1016/0895-4356(93)90018-v",
+          "10.1016/0895-4356(95)00571-4",
+          "10.2307/2529310",
+          "10.1136/bmj.328.7435.343",
+          "10.1080/14640746608400055",
+          "10.1037/a0022475",
+          "10.1016/s0022-5371(66)80048-8",
+          "10.1136/qshc.2004.011155",
+          "10.1177/1359105304038379",
+          "10.1186/1748-5908-6-42",
+          "10.1186/1748-5908-7-100"
+        ],
+        "impact": 6490,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "fdkkp1g",
+      "name": "mental-2025-1-e69294 (1)",
+      "meta": {
+        "title": "Does the Digital Therapeutic Alliance Exist? Integrative Review",
+        "authors": [
+          {
+            "family": "Malouin-Lachance",
+            "given": "Amylie"
+          },
+          {
+            "family": "Capolupo",
+            "given": "Julien"
+          },
+          {
+            "family": "Laplante",
+            "given": "Chloé"
+          },
+          {
+            "family": "Hudon",
+            "given": "Alexandre"
+          }
+        ],
+        "year": "2025",
+        "venue": "JMIR Mental Health",
+        "volume": "12",
+        "issue": "",
+        "pages": "e69294-e69294",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/69294",
+        "url": "https://doi.org/10.2196/69294",
+        "type": "journal-article",
+        "abstract": "Abstract Background Mental health disorders significantly impact global populations, prompting the rise of digital mental health interventions, such as artificial intelligence (AI)-powered chatbots, to address gaps in access to care. This review explores the potential for a “digital therapeutic alliance (DTA),” emphasizing empathy, engagement, and alignment with traditional therapeutic principles to enhance user outcomes. Objective The primary objective of this review was to identify key concepts underlying the DTA in AI-driven psychotherapeutic interventions for mental health. The secondary objective was to propose an initial definition of the DTA based on these identified concepts. Methods The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) for scoping reviews and Tavares de Souza’s integrative review methodology were followed, encompassing systematic literature searches in Medline, Web of Science, PsycNet, and Google Scholar. Data from eligible studies were extracted and analyzed using Horvath et al’s conceptual framework on a therapeutic alliance, focusing on goal alignment, task agreement, and the therapeutic bond, with quality assessed using the Newcastle-Ottawa Scale and Cochrane Risk of Bias Tool. Results A total of 28 studies were identified from an initial pool of 1294 articles after excluding duplicates and ineligible studies. These studies informed the development of a conceptual framework for a DTA, encompassing key elements such as goal alignment, task agreement, therapeutic bond, user engagement, and the facilitators and barriers affecting therapeutic outcomes. The interventions primarily focused on AI-powered chatbots, digital psychotherapy, and other digital tools. Conclusions The findings of this integrative review provide a foundational framework for the concept of a DTA and report its potential to replicate key therapeutic mechanisms such as empathy, trust, and collaboration in AI-driven psychotherapeutic tools. While the DTA shows promise in enhancing accessibility and engagement in mental health care, further research and innovation are needed to address challenges such as personalization, ethical concerns, and long-term impact.",
+        "refs": [
+          "10.1080/09540261.2022.2040450",
+          "10.2139/ssrn.4103145",
+          "10.1016/j.jagp.2016.11.004",
+          "10.1177/0840470420933911",
+          "10.1177/0706743717714467",
+          "10.1177/07067437241245384",
+          "10.1017/sjp.2022.2",
+          "10.1136/eb-2018-102891",
+          "10.1016/j.invent.2017.10.002",
+          "10.1586/ern.12.63",
+          "10.1016/j.invent.2014.08.003",
+          "10.3389/fdgth.2020.576361",
+          "10.1016/j.jad.2024.04.057",
+          "10.2196/16021",
+          "10.1037/0022-006x.61.4.561",
+          "10.1037/0022-006x.68.3.438",
+          "10.1037/pst0000172",
+          "10.1177/00030651000480011001",
+          "10.1002/jclp.23519",
+          "10.2196/50025",
+          "10.61838/kman.aitech.1.2.4",
+          "10.1016/j.chbah.2024.100067",
+          "10.1080/17434440.2021.2013200",
+          "10.1016/j.psychres.2024.116026",
+          "10.3389/fdgth.2022.847991",
+          "10.1590/s1679-45082010rw1134",
+          "10.1007/s41347-022-00263-5",
+          "10.1177/0011000009359313",
+          "10.1176/appi.focus.20180022",
+          "10.3389/fpsyg.2022.915932",
+          "10.1016/j.cpr.2014.06.002",
+          "10.3389/fpsyg.2011.00270",
+          "10.1186/s40359-019-0347-3",
+          "10.1037/cou0000106",
+          "10.1007/s10654-010-9491-z",
+          "10.1136/bmj.d5928",
+          "10.2196/40789",
+          "10.1186/s12889-022-13115-x",
+          "10.1145/3568162.3578625",
+          "10.3389/fdgth.2022.989022",
+          "10.1016/j.jad.2022.09.028",
+          "10.2196/46473",
+          "10.1177/02692155231216615",
+          "10.1016/j.invent.2022.100495",
+          "10.1177/07067437241274201",
+          "10.2196/60589",
+          "10.2196/47515",
+          "10.1037/cou0000382",
+          "10.1177/10731911211015310",
+          "10.1097/pra.0000000000000748",
+          "10.1089/rej.2018.2075",
+          "10.1108/mhsi-02-2023-0020",
+          "10.2196/38876",
+          "10.15167/2421-4248/jpmh2023.64.4.3135",
+          "10.2196/56114",
+          "10.1016/j.invent.2023.100668",
+          "10.2196/37877",
+          "10.3389/fgwh.2023.1084302",
+          "10.1177/00187208231162453",
+          "10.1177/20552076241277712",
+          "10.1016/j.invent.2024.100783",
+          "10.2196/28003",
+          "10.7861/fhj.2021-0095",
+          "10.3389/fdgth.2021.689736",
+          "10.1192/bjo.2018.86",
+          "10.2196/58493"
+        ],
+        "impact": 80,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "146ty9t",
+      "name": "A meta-analysis of techniques to promote motivation for health behaviour change from a self-determination theory perspective (1)",
+      "meta": {
+        "title": "A meta-analysis of techniques to promote motivation for health behaviour change from a self-determination theory perspective",
+        "authors": [
+          {
+            "family": "Gillison",
+            "given": "Fiona B."
+          },
+          {
+            "family": "Rouse",
+            "given": "Peter"
+          },
+          {
+            "family": "Standage",
+            "given": "Martyn"
+          },
+          {
+            "family": "Sebire",
+            "given": "Simon J."
+          },
+          {
+            "family": "Ryan",
+            "given": "Richard M."
+          }
+        ],
+        "year": "2018",
+        "venue": "Health Psychology Review",
+        "volume": "13",
+        "issue": "1",
+        "pages": "110-130",
+        "publisher": "Informa UK Limited",
+        "doi": "10.1080/17437199.2018.1534071",
+        "url": "https://doi.org/10.1080/17437199.2018.1534071",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.1037/0278-6133.27.3.379",
+          "10.1111/j.1467-789x.2011.00892.x",
+          "10.3310/hta8210",
+          "10.1136/bmj.a1655",
+          "10.1111/j.1467-6494.1994.tb00797.x",
+          "10.1207/s15327965pli1104_01",
+          "10.1037/0708-5591.49.1.14",
+          "10.1001/jama.2009.1062",
+          "10.1136/bmj.g2646",
+          "10.1080/17437199.2010.513298",
+          "10.1002/ejsp.463",
+          "10.1186/1479-5868-9-20",
+          "10.1016/j.psychsport.2018.02.002",
+          "10.1016/j.psychsport.2012.11.011",
+          "10.1186/1471-2458-11-119",
+          "10.1080/17437199.2016.1190659",
+          "10.1136/bmj.g1687",
+          "10.1037/1082-989x.11.2.193",
+          "10.1200/jco.2007.15.9822",
+          "10.1037/a0019682",
+          "10.1002/14651858.cd005956.pub2",
+          "10.1080/17437199.2016.1151372",
+          "10.1016/j.pec.2004.01.003",
+          "10.1016/j.pec.2013.07.012",
+          "10.1521/jscp.2005.24.6.811",
+          "10.1037/a0016136",
+          "10.1016/j.addbeh.2010.11.016",
+          "10.1007/s12160-013-9486-6",
+          "10.1111/j.1360-0443.2012.03845.x",
+          "10.1136/bmj.h1258",
+          "10.1177/1745691612447309",
+          "10.1177/0269215514536210",
+          "10.4135/9781452269948",
+          "10.1186/1479-5868-9-18",
+          "10.1037/a0012755",
+          "10.1037/a0032853",
+          "10.1037/0003-066x.55.1.68",
+          "10.1521/978.14625/28806",
+          "10.1186/1479-5868-9-78",
+          "10.5040/9781718206632.ch-017",
+          "10.1177/0146167215602225",
+          "10.1348/014466505x34192",
+          "10.2196/jmir.1376",
+          "10.1037/a0019597",
+          "10.1037/0278-6133.23.1.58",
+          "10.1007/s12160-009-9090-y",
+          "10.1093/her/cyr005",
+          "10.1016/j.evalprogplan.2005.12.008"
+        ],
+        "impact": 407,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "s982is6",
+      "name": "Persuasive system design",
+      "meta": {
+        "title": "Persuasive system design",
+        "authors": [
+          {
+            "family": "Torning",
+            "given": "Kristian"
+          },
+          {
+            "family": "Oinas-Kukkonen",
+            "given": "Harri"
+          }
+        ],
+        "year": "2009",
+        "venue": "Proceedings of the 4th International Conference on Persuasive Technology",
+        "volume": "",
+        "issue": "",
+        "pages": "1-8",
+        "publisher": "ACM",
+        "doi": "10.1145/1541948.1541989",
+        "url": "https://doi.org/10.1145/1541948.1541989",
+        "type": "proceedings-article",
+        "abstract": "",
+        "refs": [
+          "10.21236/ad0289565",
+          "10.7551/mitpress/4201.001.0001",
+          "10.1145/764008.763957",
+          "10.1007/978-3-540-68504-3_8",
+          "10.17705/1cais.02428",
+          "10.1007/978-3-540-68504-3_15",
+          "10.5555/1780402.1780422",
+          "10.5555/1780402.1780414",
+          "10.5555/1780402.1780445"
+        ],
+        "impact": 157,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "oanbuqf",
+      "name": "3673230 (1)",
+      "meta": {
+        "title": "Self-Determination Theory and HCI Games Research: Unfulfilled Promises and Unquestioned Paradigms",
+        "authors": [
+          {
+            "family": "Tyack",
+            "given": "April"
+          },
+          {
+            "family": "Mekler",
+            "given": "Elisa D."
+          }
+        ],
+        "year": "2024",
+        "venue": "ACM Transactions on Computer-Human Interaction",
+        "volume": "31",
+        "issue": "3",
+        "pages": "1-74",
+        "publisher": "Association for Computing Machinery (ACM)",
+        "doi": "10.1145/3673230",
+        "url": "https://doi.org/10.1145/3673230",
+        "type": "journal-article",
+        "abstract": "Self-determination theory (SDT), a psychological theory of human motivation, is a prominent paradigm in human–computer interaction (HCI) research on games. However, our prior literature review observed a trend towards shallow applications of the theory. This follow-up work takes a broader view—examining SDT scholarship on games, a wider corpus of SDT-based HCI games research (N = 259), and perspectives from a games industry practitioner conference—to help explain current applications of SDT. Our findings suggest that perfunctory applications of the theory in HCI games research originate in part from within SDT scholarship on games, which itself exhibits limited engagement with theoretical tenets. Against this backdrop, we unpack the popularity of SDT in HCI games research and identify conditions underlying the theory’s current use as an oft-unquestioned paradigm. Finally, we outline avenues for more productive SDT-informed games research and consider ways towards more intentional practices of theory use in HCI.",
+        "refs": [
+          "10.1037/mot0000063",
+          "10.1111/josi.12305",
+          "10.1145/3410404.3414241",
+          "10.1145/2207676.2208354",
+          "10.1016/j.chb.2017.10.001",
+          "10.1145/3311350.3347151",
+          "10.1145/3410404.3414222",
+          "10.1145/3102071.3102085",
+          "10.1016/j.chb.2018.02.034",
+          "10.1145/3290605.3300412",
+          "10.1145/3410404.3414232",
+          "10.1177/0146167211429804",
+          "10.1016/j.adolescence.2003.10.009",
+          "10.1145/3290605.3300346",
+          "10.1145/3242671.3242688",
+          "10.1016/0030-5073(76)90067-2",
+          "10.1016/j.ijhcs.2018.04.007",
+          "10.1145/3235765.3235780",
+          "10.1145/3057921",
+          "10.1016/j.chb.2016.12.053",
+          "10.1145/1978942.1979397",
+          "10.1145/2967934.2968100",
+          "10.1016/j.ijhcs.2024.103289",
+          "10.1145/3491102.3501858",
+          "10.31234/osf.io/6vedg",
+          "10.1145/3491101.3503702",
+          "10.1177/1329878x0913000110",
+          "10.1016/j.chb.2016.08.049",
+          "10.1145/3173574.3173982",
+          "10.1145/1518701.1519063",
+          "10.1145/353485.353490",
+          "10.1145/3468505",
+          "10.1016/j.sheji.2016.01.010",
+          "10.1037/ppm0000227",
+          "10.1145/1518701.1518812",
+          "10.1177/15554120211014151",
+          "10.1145/3173574.3173975",
+          "10.1145/2470654.2470752",
+          "10.1145/2858036.2858062",
+          "10.1145/2858036.2858061",
+          "10.1145/3116595.3116608",
+          "10.1145/3173574.3174234",
+          "10.1145/2967934.2968091",
+          "10.1145/2793107.2793111",
+          "10.1016/j.psychsport.2007.03.004",
+          "10.1016/j.ijhcs.2017.06.001",
+          "10.1016/j.chb.2015.05.044",
+          "10.1145/2858036.2858227",
+          "10.1145/3311350.3347169",
+          "10.1145/3173574.3173615",
+          "10.1145/3474652",
+          "10.1108/00220410810844150",
+          "10.1515/9781503621749-005",
+          "10.1145/2793107.2793138",
+          "10.1145/3025453.3025563",
+          "10.1145/3116595.3116636",
+          "10.1016/j.chb.2015.06.036",
+          "10.1002/jad.12271",
+          "10.1145/985921.986048",
+          "10.1037/0022-3514.84.4.822",
+          "10.3389/fpsyg.2020.01307",
+          "10.1145/2702613.2732831",
+          "10.1145/3173574.3173680",
+          "10.1145/2207676.2208539",
+          "10.1016/j.chb.2015.01.038",
+          "10.1037/0022-3514.91.4.750",
+          "10.1145/2556288.2557345",
+          "10.1016/j.ijhcs.2013.08.015",
+          "10.1007/978-3-030-50585-1_2",
+          "10.1177/1555412020944622",
+          "10.1146/annurev.psych.48.1.61",
+          "10.1016/b978-155860808-5/50001-0",
+          "10.1145/2793107.2793144",
+          "10.1145/2658537.2658708",
+          "10.1177/1555412020913771",
+          "10.1080/17461391.2019.1709562",
+          "10.1145/2658537.2658701",
+          "10.1080/00223980.2013.783778",
+          "10.1037/a0035661",
+          "10.1007/s11031-016-9578-2",
+          "10.4018/978-1-7998-9223-6.ch002",
+          "10.1007/978-94-007-3932-1",
+          "10.1145/3242671.3242680",
+          "10.1016/j.chb.2015.03.010",
+          "10.1016/j.chb.2015.08.020",
+          "10.1007/s11031-014-9450-1",
+          "10.2196/13717",
+          "10.1002/kpm.206",
+          "10.1108/09593840610673793",
+          "10.1080/0144929x.2016.1175507",
+          "10.1145/3311350.3347183",
+          "10.1145/3491102.3502002",
+          "10.1145/3064663.3064667",
+          "10.1145/3290605.3300231",
+          "10.1145/1518701.1518766",
+          "10.1145/3290605.3300693",
+          "10.1386/jgvw.9.1.55_1",
+          "10.1080/01490400.2020.1738968",
+          "10.1016/j.chb.2015.08.017",
+          "10.1145/2556288.2557342",
+          "10.1177/0149206310367948",
+          "10.1016/j.chb.2018.04.053",
+          "10.1016/j.chb.2014.11.012",
+          "10.1145/3617364",
+          "10.1145/3235765.3235779",
+          "10.1007/978-1-4613-4446-9",
+          "10.1016/0030-5073(76)90033-7",
+          "10.1111/j.1467-6494.1994.tb00797.x",
+          "10.1037/0033-2909.125.6.627",
+          "10.1177/0146167205282148",
+          "10.1007/978-1-4899-2271-7_4",
+          "10.1007/978-1-4899-2271-7_3",
+          "10.1016/0092-6566(85)90023-6",
+          "10.1037/0022-3514.53.6.1024",
+          "10.1207/s15327965pli1104_01",
+          "10.1007/978-94-017-8542-6_3",
+          "10.26503/todigra.v3i1.63",
+          "10.1016/j.ijhcs.2021.102674",
+          "10.1016/j.ijhcs.2019.102383",
+          "10.1145/3311350.3347173",
+          "10.1145/2967934.2968095",
+          "10.1145/3173574.3173885",
+          "10.1145/3242671.3242702",
+          "10.1145/3116595.3116639",
+          "10.1145/3025453.3025648",
+          "10.1145/2967934.2968097",
+          "10.1145/2858036.2858156",
+          "10.1145/2858036.2858395",
+          "10.1080/07370024.2014.993471",
+          "10.1145/3611065",
+          "10.3389/fnhum.2017.00145",
+          "10.1037/cap0000063",
+          "10.2307/2393790",
+          "10.1016/j.chb.2014.01.016",
+          "10.1016/j.chb.2018.09.022",
+          "10.1145/2658537.2658688",
+          "10.1145/2858036.2858141",
+          "10.1016/j.chb.2021.106792",
+          "10.1145/1124772.1124855",
+          "10.1145/3358908",
+          "10.1016/j.chb.2014.04.053",
+          "10.1016/j.chb.2018.03.027",
+          "10.1016/j.learninstruc.2016.12.001",
+          "10.1145/2967934.2968092",
+          "10.1145/3116595.3116606",
+          "10.1145/3410404.3414239",
+          "10.1016/j.ijhcs.2020.102427",
+          "10.1145/3337722.3337737",
+          "10.1016/j.ijhcs.2018.05.006",
+          "10.1145/3290605.3300690",
+          "10.1016/j.chb.2017.12.018",
+          "10.1177/15554120221101312",
+          "10.1016/j.jvb.2020.103473",
+          "10.1145/2658537.2658700",
+          "10.1007/s10648-018-9446-6",
+          "10.1016/j.chb.2022.107232",
+          "10.1016/j.chbr.2023.100302",
+          "10.1145/3549489",
+          "10.1145/2207676.2208538",
+          "10.1037/0022-3514.36.11.1344",
+          "10.1145/2556288.2556962",
+          "10.1145/2702123.2702125",
+          "10.1145/2556288.2556963",
+          "10.1145/3563657.3596050",
+          "10.5465/amle.2005.16132558",
+          "10.3917/th.782.0119",
+          "10.1016/j.psychsport.2009.10.004",
+          "10.1177/1745691612457576",
+          "10.1145/3319617",
+          "10.1016/j.chb.2017.01.006",
+          "10.1016/j.chb.2020.106386",
+          "10.1016/j.chb.2016.02.076",
+          "10.1145/3242671.3242694",
+          "10.3389/frvir.2022.847120",
+          "10.1145/3474699",
+          "10.1016/j.ijhcs.2018.08.004",
+          "10.1145/2598510.2598595",
+          "10.1016/j.chb.2019.02.026",
+          "10.1037/0022-0663.81.2.143",
+          "10.1145/3116595.3116631",
+          "10.1145/3235765.3235803",
+          "10.1016/j.psychsport.2013.08.005",
+          "10.1145/2858036.2858419",
+          "10.1145/2967934.2968101",
+          "10.1016/j.psychsport.2014.08.013",
+          "10.1145/2658537.2658696",
+          "10.1145/3311350.3347167",
+          "10.1023/a:1015298005381",
+          "10.1016/j.chb.2016.11.045",
+          "10.1016/j.chb.2010.10.001",
+          "10.1145/3290605.3300239",
+          "10.1145/2702123.2702606",
+          "10.1016/j.intcom.2010.04.002",
+          "10.1016/j.chb.2017.01.040",
+          "10.1145/2470654.2466452",
+          "10.5555/2753876.2753989",
+          "10.1145/3311350.3347171",
+          "10.1145/2793107.2793119",
+          "10.1109/cig.2019.8848105",
+          "10.1016/j.chb.2018.11.049",
+          "10.1016/j.chb.2017.03.001",
+          "10.1145/2362364.2362371",
+          "10.1080/07370024.2017.1321992",
+          "10.1145/3127358",
+          "10.1016/j.chb.2018.10.001",
+          "10.1016/j.jvb.2016.07.004",
+          "10.1177/0149206316645653",
+          "10.1007/s11031-020-09831-9",
+          "10.1007/s11031-020-09852-4",
+          "10.1016/j.chb.2010.07.021",
+          "10.1016/j.chb.2016.02.001",
+          "10.1145/3290605.3300453",
+          "10.1145/3290605.3300388",
+          "10.1177/01461672221100369",
+          "10.1016/j.chb.2021.106702",
+          "10.1016/j.chb.2015.08.010",
+          "10.1016/j.ijhcs.2008.04.004",
+          "10.1145/3406522.3446040",
+          "10.1098/rsos.202049",
+          "10.1145/3311350.3347195",
+          "10.1145/2858036.2858172",
+          "10.1016/j.chb.2016.06.028",
+          "10.1016/j.ijhcs.2018.05.003",
+          "10.1145/3474708",
+          "10.1145/2702123.2702447",
+          "10.1145/2658537.2658694",
+          "10.1145/2702123.2702468",
+          "10.1016/j.chb.2021.106817",
+          "10.1037/ppm0000299",
+          "10.1145/1952222.1952281",
+          "10.1016/j.chb.2018.05.025",
+          "10.1080/15298868.2020.1768890",
+          "10.1037/pspp0000177",
+          "10.1145/2858036.2858450",
+          "10.1016/j.ijhcs.2021.102626",
+          "10.1111/jopy.12171",
+          "10.5465/amle.2005.16132566",
+          "10.1145/3173574.3174174",
+          "10.1145/3474661",
+          "10.1145/3474665",
+          "10.1145/3290605.3300660",
+          "10.1145/2658537.2658683",
+          "10.1145/3116595.3116604",
+          "10.1007/s11031-013-9371-4",
+          "10.1177/0146167296223006",
+          "10.1145/3235765.3235789",
+          "10.1080/17510694.2018.1532760",
+          "10.4324/9781003214977-17",
+          "10.7551/mitpress/14513.001.0001",
+          "10.1177/1367549417705603",
+          "10.1016/j.chb.2015.02.011",
+          "10.1016/j.chb.2017.08.023",
+          "10.1016/j.chb.2017.09.023",
+          "10.1145/2858036.2858563",
+          "10.1037/0022-3514.89.6.997",
+          "10.1037/mot0000221",
+          "10.1111/j.1467-6494.1984.tb00879.x",
+          "10.1111/jopy.12380",
+          "10.1080/0144929x.2021.1928753",
+          "10.1145/2729103",
+          "10.1145/3173574.3174152",
+          "10.1145/3410404.3414243",
+          "10.1016/j.chb.2021.106963",
+          "10.1145/3311350.3347172",
+          "10.1145/3116595.3116615",
+          "10.1145/1621841.1621854",
+          "10.1145/3311350.3347148",
+          "10.1145/3235765.3235788",
+          "10.1016/j.paid.2012.06.013",
+          "10.1145/2639189.2639214",
+          "10.1016/j.ijhcs.2018.09.011",
+          "10.1145/3242671.3242683",
+          "10.1145/3311350.3347181",
+          "10.1145/3311350.3347168",
+          "10.1145/3290605.3300380",
+          "10.1016/j.chb.2016.02.034",
+          "10.1016/j.chb.2015.01.053",
+          "10.1145/3311350.3347174",
+          "10.1016/j.psychsport.2013.04.009",
+          "10.1016/j.chb.2019.09.016",
+          "10.1145/2470654.2470668",
+          "10.1145/3025453.3025638",
+          "10.1111/j.1083-6101.1997.tb00072.x",
+          "10.1145/3242671.3242678",
+          "10.1145/3290605.3300438",
+          "10.1016/j.chb.2018.10.005",
+          "10.1016/j.chb.2017.08.025",
+          "10.1080/17439760902933765",
+          "10.1111/jasp.12581",
+          "10.1207/s15516709cog0504_2",
+          "10.1002/2013wr014338",
+          "10.1145/2967934.2968099",
+          "10.1145/3025453.3025691",
+          "10.1145/3027063.3052751",
+          "10.1145/3027063.3052752",
+          "10.1016/j.chb.2016.02.063",
+          "10.1007/978-94-007-0753-5_3952",
+          "10.1080/02701367.1989.10607413",
+          "10.1037/0003-066x.40.7.812",
+          "10.1145/2658537.2658541",
+          "10.1145/3392063.3394435",
+          "10.1016/j.chb.2016.02.022",
+          "10.1016/j.chb.2014.12.028",
+          "10.1016/j.chb.2015.08.048",
+          "10.1145/3544548.3581510",
+          "10.1016/j.chb.2016.11.070",
+          "10.1145/3337722.3337735",
+          "10.1016/j.chb.2019.106209",
+          "10.1002/ejsp.2343",
+          "10.1016/j.paid.2018.07.007",
+          "10.1016/j.jrp.2012.10.013",
+          "10.1145/1518701.1518991",
+          "10.1016/j.ijhcs.2018.10.001",
+          "10.1016/j.chb.2017.08.026",
+          "10.1037/pas0001193",
+          "10.1037/hea0000849",
+          "10.1145/2851581.2886438",
+          "10.1145/3170427.3185360",
+          "10.1145/3474691",
+          "10.1016/j.chb.2016.08.042",
+          "10.1016/j.chb.2014.04.047",
+          "10.1177/1745691612447309",
+          "10.1145/3313831.3376827",
+          "10.1201/9781003182832",
+          "10.1177/2056305115621932",
+          "10.1006/jesp.1999.1382",
+          "10.1080/026404101300149357",
+          "10.1123/jsep.26.2.197",
+          "10.1080/10413200903036040",
+          "10.1177/1354856516680324",
+          "10.1145/3119929",
+          "10.1145/3173574.3174009",
+          "10.1145/3337722.3337753",
+          "10.1080/10447318.2021.1925436",
+          "10.1145/3173574.3173795",
+          "10.1016/j.chb.2021.106891",
+          "10.1016/j.ijhcs.2011.07.004",
+          "10.1145/3410404.3414252",
+          "10.1016/j.chb.2014.06.023",
+          "10.1016/j.chb.2015.03.024",
+          "10.3389/fpsyg.2018.00797",
+          "10.1145/3025453.3026047",
+          "10.1145/3242671.3242706",
+          "10.1145/3242671.3242713",
+          "10.1145/2556288.2556991",
+          "10.1145/3173574.3173764",
+          "10.1145/3474715",
+          "10.1145/3505270.3558361",
+          "10.1145/3582437.3582444",
+          "10.1016/j.chb.2018.01.019",
+          "10.1145/3290605.3300921",
+          "10.1037/a0034820",
+          "10.1037/a0019440",
+          "10.1177/0146167208327216",
+          "10.1177/2167702619859341",
+          "10.1177/0956797611418676",
+          "10.1089/cpb.2009.0083",
+          "10.1177/15554120211056126",
+          "10.1016/j.chb.2015.02.048",
+          "10.1016/j.chb.2015.04.010",
+          "10.1177/1555412014567228",
+          "10.1177/15554120221115395",
+          "10.1016/j.chb.2018.03.010",
+          "10.1145/2967934.2968085",
+          "10.1016/j.chb.2017.07.032",
+          "10.1016/j.chb.2014.07.037",
+          "10.1177/1477878509104326",
+          "10.5040/9798400658105",
+          "10.1002/9781118294895.ch12",
+          "10.1016/j.chb.2016.03.015",
+          "10.1016/j.chb.2016.05.063",
+          "10.1016/j.chb.2017.03.048",
+          "10.1002/aris.1440380103",
+          "10.5555/3019322",
+          "10.1145/3410404.3414235",
+          "10.1145/3173574.3173921",
+          "10.1145/2702123.2702577",
+          "10.1016/j.adolescence.2011.11.005",
+          "10.1016/j.chb.2015.11.020",
+          "10.14321/qed.2.2.0108",
+          "10.1037/0022-3514.43.3.450",
+          "10.1093/oxfordhb/9780197600047.001.0001",
+          "10.1016/1041-6080(90)90014-8",
+          "10.1037/14092-004",
+          "10.1207/s15327965pli1104_03",
+          "10.1006/ceps.1999.1020",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1521/978.14625/28806",
+          "10.1002/9781119125556.devpsy109",
+          "10.1037/mot0000194",
+          "10.1037/mot0000237",
+          "10.1111/j.1467-6494.1997.tb00326.x",
+          "10.1007/s10902-006-9023-4",
+          "10.1017/s0954579497001405",
+          "10.1007/s11031-006-9051-8",
+          "10.1016/j.chb.2016.12.033",
+          "10.1145/3235765.3235796",
+          "10.1145/3235765.3235795",
+          "10.1145/3290605.3300781",
+          "10.1002/icd.2295",
+          "10.1016/j.chb.2017.04.048",
+          "10.1007/978-1-4899-1893-2_2",
+          "10.1201/9781315156422",
+          "10.1016/j.ijhcs.2014.09.006",
+          "10.1145/3025453.3025623",
+          "10.3389/fpsyg.2018.00707",
+          "10.1037/a0024758",
+          "10.1037/0022-3514.80.2.325",
+          "10.1111/j.1467-6494.2009.00589.x",
+          "10.1177/1948550614555028",
+          "10.1111/j.1467-6494.2006.00442.x",
+          "10.1016/j.chb.2020.106641",
+          "10.1145/2858036.2858574",
+          "10.1145/3337722.3341856",
+          "10.7551/mitpress/12831.001.0001",
+          "10.1016/j.chb.2013.01.042",
+          "10.1145/3242671.3242698",
+          "10.1016/j.chb.2019.03.002",
+          "10.1145/3432245",
+          "10.1145/3334480.3381063",
+          "10.1177/0162243910377624",
+          "10.1145/3025453.3025511",
+          "10.1016/j.chb.2017.06.019",
+          "10.1080/07370020903586696",
+          "10.1016/j.jrurstud.2020.05.002",
+          "10.1145/3441000.3441048",
+          "10.1145/1077246.1077253",
+          "10.1201/9781482267334",
+          "10.1111/j.1460-2466.2010.01513.x",
+          "10.1016/j.chb.2019.03.008",
+          "10.1037/mot0000172",
+          "10.1177/0886368717750904",
+          "10.1016/j.chb.2016.12.074",
+          "10.1080/10714413.2013.753758",
+          "10.1016/j.ijhcs.2018.10.002",
+          "10.1145/3311350.3347185",
+          "10.1145/2967934.2968082",
+          "10.1145/3116595.3116629",
+          "10.1080/0144929x.2019.1672789",
+          "10.1002/ejsp.2588",
+          "10.1145/2967934.2968088",
+          "10.1016/j.chb.2020.106523",
+          "10.1080/0144929x.2022.2094832",
+          "10.1145/2967934.2968098",
+          "10.1145/3313831.3376723",
+          "10.1145/3152771.3156149",
+          "10.1145/3173574.3173760",
+          "10.1002/per.1954",
+          "10.3389/fpsyg.2017.01755",
+          "10.1016/j.ijhcs.2020.102473",
+          "10.1111/hcre.12010",
+          "10.1016/s0065-2601(08)60019-2",
+          "10.1037/mot0000227",
+          "10.1037/0022-3514.85.4.756",
+          "10.1093/oso/9780190648626.003.0002",
+          "10.1037/a0012804",
+          "10.1145/3410404.3414244",
+          "10.1007/s10826-019-01368-x",
+          "10.1016/j.ijhcs.2018.09.003",
+          "10.1016/j.ijhcs.2018.04.009",
+          "10.1080/17439760.2023.2178956",
+          "10.1016/j.ijhcs.2019.102370",
+          "10.1145/2793107.2793132",
+          "10.1080/00220973.2017.1381067",
+          "10.1108/s0749-7423(2010)000016a007",
+          "10.1007/s11031-019-09818-1",
+          "10.1145/2793107.2793118",
+          "10.1145/3116595.3116622",
+          "10.1145/3242671.3242686",
+          "10.1145/3025453.3026022",
+          "10.1145/3386247",
+          "10.1145/2702123.2702242",
+          "10.1016/j.ijhcs.2020.102449",
+          "10.1145/3410404.3414229",
+          "10.1098/rsos.220411",
+          "10.1145/2702123.2702552",
+          "10.1016/j.chb.2010.12.012",
+          "10.1080/1750984x.2015.1119873",
+          "10.1016/0747-5632(93)90032-n",
+          "10.1016/j.ijhcs.2020.102398",
+          "10.1038/s41562-019-0561-2",
+          "10.5465/amr.1989.4308371",
+          "10.24908/ss.v11i1/2.4454",
+          "10.1177/1461444817715020",
+          "10.1177/1527476419851086",
+          "10.1016/j.chb.2013.12.001",
+          "10.1007/978-3-319-40612-1_9",
+          "10.1145/3311350.3347175",
+          "10.1177/0093650220939778",
+          "10.1145/3290605.3300549",
+          "10.1016/j.chb.2017.03.066",
+          "10.1145/3411764.3445445",
+          "10.1162/pres.15.3.309",
+          "10.1089/cpb.2006.9.772",
+          "10.1145/3491102.3517642",
+          "10.1145/3563703.3591458",
+          "10.1016/j.chb.2019.05.029",
+          "10.1145/3544548.3580839",
+          "10.1080/10447318.2022.2121885",
+          "10.1145/3411764.3445102"
+        ],
+        "impact": 44,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "Self-determination theory (SDT), a psychological theory of human motivation, is a prominent paradigm in human–computer interaction (HCI) research on games. Our findings suggest that perfunctory applications of the theory in HCI games research originate in part from within SDT scholarship on games, which itself exhibits limited engagement with theoretical tenets. Against this backdrop, we unpack the popularity of SDT in HCI games research and identify conditions underlying the theory’s current use as an oft-unquestioned paradigm.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "mg41a6x",
+      "name": "formative-2019-4-e14052",
+      "meta": {
+        "title": "Understanding Health Behavior Technology Engagement: Pathway to Measuring Digital Behavior Change Interventions",
+        "authors": [
+          {
+            "family": "Cole-Lewis",
+            "given": "Heather"
+          },
+          {
+            "family": "Ezeanochie",
+            "given": "Nnamdi"
+          },
+          {
+            "family": "Turgiss",
+            "given": "Jennifer"
+          }
+        ],
+        "year": "2019",
+        "venue": "JMIR Formative Research",
+        "volume": "3",
+        "issue": "4",
+        "pages": "e14052",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/14052",
+        "url": "https://doi.org/10.2196/14052",
+        "type": "journal-article",
+        "abstract": "Researchers and practitioners of digital behavior change interventions (DBCI) use varying and, often, incongruent definitions of the term “engagement,” thus leading to a lack of precision in DBCI measurement and evaluation. The objective of this paper is to propose discrete definitions for various types of user engagement and to explain why precision in the measurement of these engagement types is integral to ensuring the intervention is effective for health behavior modulation. Additionally, this paper presents a framework and practical steps for how engagement can be measured in practice and used to inform DBCI design and evaluation. The key purpose of a DBCI is to influence change in a target health behavior of a user, which may ultimately improve a health outcome. Using available literature and practice-based knowledge of DBCI, the framework conceptualizes two primary categories of engagement that must be measured in DBCI. The categories are health behavior engagement, referred to as “Big E,” and DBCI engagement, referred to as “Little e.” DBCI engagement is further bifurcated into two subclasses: (1) user interactions with features of the intervention designed to encourage frequency of use (ie, simple login, games, and social interactions) and make the user experience appealing, and (2) user interactions with behavior change intervention components (ie, behavior change techniques), which influence determinants of health behavior and subsequently influence health behavior. Achievement of Big E in an intervention delivered via digital means is contingent upon Little e. If users do not interact with DBCI features and enjoy the user experience, exposure to behavior change intervention components will be limited and less likely to influence the behavioral determinants that lead to health behavior engagement (Big E). Big E is also dependent upon the quality and relevance of the behavior change intervention components within the solution. Therefore, the combination of user interactions and behavior change intervention components creates Little e, which is, in turn, designed to improve Big E. The proposed framework includes a model to support measurement of DBCI that describes categories of engagement and details how features of Little e produce Big E. This framework can be applied to DBCI to support various health behaviors and outcomes and can be utilized to identify gaps in intervention efficacy and effectiveness.",
+        "refs": [
+          "10.1371/journal.pmed.1001049",
+          "10.1177/1090198115605310",
+          "10.1007/s13142-011-0021-7",
+          "10.2196/jmir.1639",
+          "10.1080/10810730.2013.768727",
+          "10.1177/1046878114553571",
+          "10.1002/asi.20801",
+          "10.1002/asi.21229",
+          "10.1007/s12160-013-9486-6",
+          "10.1016/j.amepre.2016.06.015",
+          "10.1016/j.pec.2010.02.002",
+          "10.2196/jmir.3077",
+          "10.1016/j.jbi.2009.07.002",
+          "10.3922/j.psns.2010.2.009",
+          "10.1037/0003-066x.55.1.68",
+          "10.1007/s10865-016-9768-0",
+          "10.3390/ijerph7010060",
+          "10.1146/annurev.clinpsy.3.022806.091415",
+          "10.1145/2858036.2858448",
+          "10.1037/0021-9010.76.5.732",
+          "10.7205/milmed-d-14-00111"
+        ],
+        "impact": 146,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "Additionally, this paper presents a framework and practical steps for how engagement can be measured in practice and used to inform DBCI design and evaluation.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "9sgr5i4",
+      "name": "bmj.i6270.full",
+      "meta": {
+        "title": "Gotta catch’em all! Pokémon GO and physical activity among young adults: difference in differences study",
+        "authors": [
+          {
+            "family": "Howe",
+            "given": "Katherine B"
+          },
+          {
+            "family": "Suharlim",
+            "given": "Christian"
+          },
+          {
+            "family": "Ueda",
+            "given": "Peter"
+          },
+          {
+            "family": "Howe",
+            "given": "Daniel"
+          },
+          {
+            "family": "Kawachi",
+            "given": "Ichiro"
+          },
+          {
+            "family": "Rimm",
+            "given": "Eric B"
+          }
+        ],
+        "year": "2016",
+        "venue": "BMJ",
+        "volume": "",
+        "issue": "",
+        "pages": "i6270",
+        "publisher": "BMJ",
+        "doi": "10.1136/bmj.i6270",
+        "url": "https://doi.org/10.1136/bmj.i6270",
+        "type": "journal-article",
+        "abstract": "OBJECTIVE: To estimate the effect of playing Pokémon GO on the number of steps taken daily up to six weeks after installation of the game. DESIGN: Cohort study using online survey data. PARTICIPANTS: Survey participants of Amazon Mechanical Turk (n=1182) residing in the United States, aged 18 to 35 years and using iPhone 6 series smartphones. MAIN OUTCOME MEASURES: Number of daily steps taken each of the four weeks before and six weeks after installation of Pokémon GO, automatically recorded in the \"Health\" application of the iPhone 6 series smartphones and reported by the participants. A difference in difference regression model was used to estimate the change in daily steps in players of Pokémon GO compared with non-players. RESULTS: 560 (47.4%) of the survey participants reported playing Pokémon GO and walked on average 4256 steps (SD 2697) each day in the four weeks before installation of the game. The difference in difference analysis showed that the daily average steps for Pokémon GO players during the first week of installation increased by 955 additional steps (95% confidence interval 697 to 1213), and then this increase gradually attenuated over the subsequent five weeks. By the sixth week after installation, the number of daily steps had gone back to pre-installation levels. No significant effect modification of Pokémon GO was found by sex, age, race group, bodyweight status, urbanity, or walkability of the area of residence. CONCLUSIONS: Pokémon GO was associated with an increase in the daily number of steps after installation of the game. The association was, however, moderate and no longer observed after six weeks.",
+        "refs": [],
+        "impact": 207,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2565567488",
+        "oaRefs": [
+          "https://openalex.org/W1201749067",
+          "https://openalex.org/W1975984765",
+          "https://openalex.org/W2019828136",
+          "https://openalex.org/W2039830661",
+          "https://openalex.org/W2040106495",
+          "https://openalex.org/W2073394706",
+          "https://openalex.org/W2096187762",
+          "https://openalex.org/W2102850806",
+          "https://openalex.org/W2108229024",
+          "https://openalex.org/W2119298903",
+          "https://openalex.org/W2120612383",
+          "https://openalex.org/W2124758339",
+          "https://openalex.org/W2137872373",
+          "https://openalex.org/W2139141017",
+          "https://openalex.org/W2212317641",
+          "https://openalex.org/W2496044908",
+          "https://openalex.org/W2510510798",
+          "https://openalex.org/W2519927230",
+          "https://openalex.org/W2944941081",
+          "https://openalex.org/W3125601827"
+        ]
+      },
+      "tags": [
+        "PokemonGo"
+      ],
+      "summary": "No significant effect modification of Pokémon GO was found by sex, age, race group, bodyweight status, urbanity, or walkability of the area of residence.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "huz1mny",
+      "name": "1-s2.0-S0747563218301109-main",
+      "meta": {
+        "title": "Does Pokémon Go lead to a more physically active life style?",
+        "authors": [
+          {
+            "family": "Gabbiadini",
+            "given": "Alessandro"
+          },
+          {
+            "family": "Sagioglou",
+            "given": "Christina"
+          },
+          {
+            "family": "Greitemeyer",
+            "given": "Tobias"
+          }
+        ],
+        "year": "2018",
+        "venue": "Computers in Human Behavior",
+        "volume": "84",
+        "issue": "",
+        "pages": "258-263",
+        "publisher": "Elsevier BV",
+        "doi": "10.1016/j.chb.2018.03.005",
+        "url": "https://doi.org/10.1016/j.chb.2018.03.005",
+        "type": "journal-article",
+        "abstract": "",
+        "refs": [
+          "10.2196/jmir.6759",
+          "10.1007/s11036-007-0011-7",
+          "10.1001/jamainternmed.2016.6274",
+          "10.1542/peds.2011-2050",
+          "10.3389/fpubh.2013.00074",
+          "10.1177/1745691610393980",
+          "10.21037/atm.2017.03.38",
+          "10.1186/1479-5868-9-151",
+          "10.1136/bmj.i6270",
+          "10.7309/jmtm.2.2.3",
+          "10.1177/0098628312456615",
+          "10.1016/j.invent.2016.10.002",
+          "10.2196/jmir.1950",
+          "10.1177/0049124101030002004",
+          "10.1016/j.jesp.2009.03.009",
+          "10.1177/0963721414531598",
+          "10.1016/j.sbspro.2011.12.017",
+          "10.1016/j.adolescence.2003.10.003"
+        ],
+        "impact": 30,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2789577109",
+        "oaRefs": [
+          "https://openalex.org/W1552061030",
+          "https://openalex.org/W1987523869",
+          "https://openalex.org/W2017848404",
+          "https://openalex.org/W2019988392",
+          "https://openalex.org/W2025454211",
+          "https://openalex.org/W2041299687",
+          "https://openalex.org/W2050045185",
+          "https://openalex.org/W2065314976",
+          "https://openalex.org/W2068021035",
+          "https://openalex.org/W2099233982",
+          "https://openalex.org/W2123381087",
+          "https://openalex.org/W2127329798",
+          "https://openalex.org/W2128894026",
+          "https://openalex.org/W2137872373",
+          "https://openalex.org/W2141708418",
+          "https://openalex.org/W2156235566",
+          "https://openalex.org/W2171190321",
+          "https://openalex.org/W2171993313",
+          "https://openalex.org/W2507985706",
+          "https://openalex.org/W2519927230",
+          "https://openalex.org/W2547134104",
+          "https://openalex.org/W2565567488",
+          "https://openalex.org/W2571013815",
+          "https://openalex.org/W2583638605",
+          "https://openalex.org/W2592227378",
+          "https://openalex.org/W2600139153",
+          "https://openalex.org/W3003247005",
+          "https://openalex.org/W3125283999",
+          "https://openalex.org/W4254172254",
+          "https://openalex.org/W6647428152",
+          "https://openalex.org/W6656458855",
+          "https://openalex.org/W6678865058",
+          "https://openalex.org/W6724967753",
+          "https://openalex.org/W6731959246",
+          "https://openalex.org/W6734404331"
+        ]
+      },
+      "tags": [
+        "PokemonGo"
+      ],
+      "summary": "Regression analyses revealed that Pok\u0013emon Go related physical activity significantly reversed the positive effects of the app on participants' overall physically active behavior…",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "mwv9vq5",
+      "name": "games_v5i2e7",
+      "meta": {
+        "title": "Who Is Still Playing Pokémon Go? A Web-Based Survey",
+        "authors": [
+          {
+            "family": "Rasche",
+            "given": "Peter"
+          },
+          {
+            "family": "Schlomann",
+            "given": "Anna"
+          },
+          {
+            "family": "Mertens",
+            "given": "Alexander"
+          }
+        ],
+        "year": "2017",
+        "venue": "JMIR Serious Games",
+        "volume": "5",
+        "issue": "2",
+        "pages": "e7",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/games.7197",
+        "url": "https://doi.org/10.2196/games.7197",
+        "type": "journal-article",
+        "abstract": "BACKGROUND: Poor physical activity is one of the major health care problems in Western civilizations. Various digital gadgets aiming to increase physical activity, such as activity trackers or fitness apps, have been introduced over recent years. The newest products are serious games that incorporate real-life physical activity into their game concept. Recent studies have shown that such games increase the physical activity of their users over the short term. OBJECTIVE: In this study, we investigated the motivational effects of the digital game \"Pokémon Go\" leading to continued use or abandonment of the game. The aim of the study was to determine aspects that motivate individuals to play augmented reality exergames and how this motivation can be used to strengthen the initial interest in physical activity. METHODS: A total of 199 participants completed an open self-selected Web-based survey. On the basis of their self-indicated assignment to one of three predefined user groups (active, former, and nonuser of Pokémon Go), participants answered various questions regarding game experience, physical activity, motivation, and personality as measured by the Big Five Inventory. RESULTS: In total, 81 active, 56 former, and 62 nonusers of Pokémon Go were recruited. When asked about the times they perform physical activity, active users stated that they were less physically active in general than former and nonusers. However, based on a subjective rating, active users were more motivated to be physically active due to playing Pokémon Go. Motivational aspects differed for active and former users, whereas fan status was the same within both groups. Active users are more motivated by features directly related to Pokémon, such as catching all possible Pokémon and reaching higher levels, whereas former users stress the importance of general game quality, such as better augmented reality and more challenges in the game. Personality did not affect whether a person started to play Pokémon Go nor their abandonment of the game. CONCLUSIONS: The results show various motivating elements that should be incorporated into augmented reality exergames based on the game Pokémon Go. We identified different user types for whom different features of the game contribute to maintained motivation or abandonment. Our results show aspects that augmented reality exergame designers should keep in mind to encourage individuals to start playing their game and facilitate long-term user engagement, resulting in a greater interest in physical activity.",
+        "refs": [
+          "10.1097/wco.0000000000000026",
+          "10.2196/jmir.5295",
+          "10.1001/jama.298.19.2296",
+          "10.1145/2556288.2557383",
+          "10.2196/games.3413",
+          "10.2196/games.3139",
+          "10.1007/978-3-642-54816-1_11",
+          "10.1136/bjsports-2016-096762",
+          "10.1089/g4h.2016.01055.tbp",
+          "10.1016/j.ypmed.2016.11.012",
+          "10.2196/jmir.6759",
+          "10.1111/obr.12287",
+          "10.2196/games.3092",
+          "10.1097/mop.0000000000000409",
+          "10.12758/mda.2013.013",
+          "10.4135/9781412984553",
+          "10.2196/jmir.5698",
+          "10.1080/13645579.2014.957069",
+          "10.1136/bjsm.37.3.197",
+          "10.1016/j.amjmed.2015.05.038",
+          "10.2196/games.5943",
+          "10.2196/jmir.3084",
+          "10.1145/2750858.2807554",
+          "10.1542/peds.2009-3433",
+          "10.2196/jmir.4568",
+          "10.2196/games.3691",
+          "10.1016/j.psychres.2016.10.038"
+        ],
+        "impact": 87,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2604155351",
+        "oaRefs": [
+          "https://openalex.org/W165388696",
+          "https://openalex.org/W174936872",
+          "https://openalex.org/W176598410",
+          "https://openalex.org/W1838481526",
+          "https://openalex.org/W1900137331",
+          "https://openalex.org/W1925002041",
+          "https://openalex.org/W1967591898",
+          "https://openalex.org/W1998528196",
+          "https://openalex.org/W1999416261",
+          "https://openalex.org/W2000834629",
+          "https://openalex.org/W2009721998",
+          "https://openalex.org/W2038327808",
+          "https://openalex.org/W2040106495",
+          "https://openalex.org/W2073394706",
+          "https://openalex.org/W2101622311",
+          "https://openalex.org/W2129887445",
+          "https://openalex.org/W2130312682",
+          "https://openalex.org/W2141063224",
+          "https://openalex.org/W2164098613",
+          "https://openalex.org/W2197039943",
+          "https://openalex.org/W2273462684",
+          "https://openalex.org/W2507985706",
+          "https://openalex.org/W2510510798",
+          "https://openalex.org/W2517776115",
+          "https://openalex.org/W2517974163",
+          "https://openalex.org/W2536440789",
+          "https://openalex.org/W2555545138",
+          "https://openalex.org/W2556057223",
+          "https://openalex.org/W2557598729",
+          "https://openalex.org/W2583638605",
+          "https://openalex.org/W2595099894",
+          "https://openalex.org/W4298160728"
+        ]
+      },
+      "tags": [
+        "PokemonGo"
+      ],
+      "summary": "We identified different user types for whom different features of the game contribute to maintained motivation or abandonment.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "kifr7sz",
+      "name": "games_v8i2e15967",
+      "meta": {
+        "title": "Exploring Features of the Pervasive Game Pokémon GO That Enable Behavior Change: Qualitative Study",
+        "authors": [
+          {
+            "family": "Arjoranta",
+            "given": "Jonne"
+          },
+          {
+            "family": "Kari",
+            "given": "Tuomas"
+          },
+          {
+            "family": "Salo",
+            "given": "Markus"
+          }
+        ],
+        "year": "2020",
+        "venue": "JMIR Serious Games",
+        "volume": "8",
+        "issue": "2",
+        "pages": "e15967",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/15967",
+        "url": "https://doi.org/10.2196/15967",
+        "type": "journal-article",
+        "abstract": "Background Digital gaming is one of the most popular forms of entertainment in the world. While prior literature concluded that digital games can enable changes in players’ behaviors, there is limited knowledge about different types of behavior changes and the game features driving them. Understanding behavior changes and the game features behind them is important because digital games can motivate players to change their behavior for the better (or worse). Objective This study investigates the types of behavior changes and their underlying game features within the context of the popular pervasive game Pokémon GO. Methods We collected data from 262 respondents with a critical incident technique (CIT) questionnaire. We analyzed the responses with applied thematic analysis with ATLAS.ti (ATLAS.ti Scientific Software Development GmbH) software. Results We discovered 8 types of behavior changes and 13 game features relevant to those behavior changes. The behavior changes included added activity in life, enhancing routines, exploration, increased physical activity, strengthening social bonds, lowering social barriers, increased positive emotional expression and self-treatment. The game features included reaching a higher level, catching new Pokémon, evolving new Pokémon, visiting PokéStops, exploring PokéStops, hatching eggs, fighting in gyms, collaborative fighting, exploiting special events, finding specific Pokémon, using items, Pokémon theme, and game location tied to physical location. The behavior changes were connected to specific game features, with game location tied to physical location and catching new Pokémon being the most common and connected to all behavior changes. Conclusions Our findings indicate that the surveyed players changed their behaviors while or after playing Pokémon GO. The respondents reported being more social, expressed more positive emotions, found more meaningfulness in their routines, and had increased motivation to explore their surroundings.",
+        "refs": [
+          "10.1016/j.compedu.2012.03.004",
+          "10.1177/1745691614568352",
+          "10.3945/ajcn.111.019620",
+          "10.4324/9781315230344",
+          "10.1145/2468356.2479662",
+          "10.1016/j.ijmedinf.2016.02.006",
+          "10.1016/j.amepre.2007.09.027",
+          "10.4018/978-1-59904-808-6.ch022",
+          "10.2307/249410",
+          "10.25300/misq/2013/37.1.02",
+          "10.1016/j.chb.2018.12.008",
+          "10.1080/10447318.2018.1497115",
+          "10.1145/3025453.3025871",
+          "10.1145/3102071.3102074",
+          "10.1089/g4h.2016.01055.tbp",
+          "10.1177/2050157916676232",
+          "10.1177/2050157916680015",
+          "10.1089/g4h.2019.0034",
+          "10.2196/jmir.6759",
+          "10.1089/g4h.2018.0002",
+          "10.4103/jets.jets_87_17",
+          "10.1136/bmj.i6270",
+          "10.1007/978-3-319-55134-0_19",
+          "10.2105/ajph.2016.303532",
+          "10.1016/j.ypmed.2016.11.012",
+          "10.1186/s12942-017-0080-1",
+          "10.1016/j.psychres.2016.10.038",
+          "10.24251/hicss.2018.240",
+          "10.1136/bmj.i4306",
+          "10.1093/omcr/omw080",
+          "10.1097/mop.0000000000000409",
+          "10.1145/3025453.3025495",
+          "10.1089/cyber.2016.0562",
+          "10.4101/jvwr.v9i3.7239",
+          "10.1007/s00779-012-0591-5",
+          "10.1016/j.compedu.2012.03.004",
+          "10.1080/17437199.2012.654964",
+          "10.1007/s12160-013-9486-6",
+          "10.1080/17437199.2014.941722",
+          "10.1145/1328202.1328209",
+          "10.2307/249410",
+          "10.1037/h0061470",
+          "10.1177/1094670504266138",
+          "10.1108/eum0000000005520",
+          "10.1016/s0022-4359(97)90015-4",
+          "10.1509/jmkg.64.3.50.18024",
+          "10.1177/002224299005400105",
+          "10.2196/jmir.6.3.e34",
+          "10.4135/9781483384436",
+          "10.1007/s00779-014-0778-z",
+          "10.1136/bmjopen-2016-012447",
+          "10.1080/1369118032000163240",
+          "10.1177/2050157916677864"
+        ],
+        "impact": 23,
+        "source": "Crossref"
+      },
+      "tags": [
+        "PokemonGo"
+      ],
+      "summary": "Our findings indicate that the surveyed players changed their behaviors while or after playing Pokémon GO.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "0jfi5eq",
+      "name": "nihms-1942878 (1)",
+      "meta": {
+        "title": "Do medications increase the efficacy of digital interventions for smoking cessation? Secondary results from the iCanQuit randomized trial",
+        "authors": [
+          {
+            "family": "Bricker",
+            "given": "Jonathan B."
+          },
+          {
+            "family": "Santiago‐Torres",
+            "given": "Margarita"
+          },
+          {
+            "family": "Mull",
+            "given": "Kristin E."
+          },
+          {
+            "family": "Sullivan",
+            "given": "Brianna M."
+          },
+          {
+            "family": "David",
+            "given": "Sean P."
+          },
+          {
+            "family": "Schmitz",
+            "given": "Joy"
+          },
+          {
+            "family": "Stotts",
+            "given": "Angela"
+          },
+          {
+            "family": "Rigotti",
+            "given": "Nancy A."
+          }
+        ],
+        "year": "2023",
+        "venue": "Addiction",
+        "volume": "119",
+        "issue": "4",
+        "pages": "664-676",
+        "publisher": "Wiley",
+        "doi": "10.1111/add.16396",
+        "url": "https://doi.org/10.1111/add.16396",
+        "type": "journal-article",
+        "abstract": "Abstract Background and aims iCanQuit is a smartphone application (app) proven efficacious for smoking cessation in a Phase III randomized controlled trial (RCT). This study aimed to measure whether medications approved by the US Food and Drug Administration (FDA) for smoking cessation would further enhance the efficacy of iCanQuit, relative to its parent trial comparator—the National Cancer Institute's (NCI's) QuitGuide app. Design Secondary analysis of the entire parent trial sample of a two‐group (iCanQuit and QuitGuide), stratified, doubled‐blind RCT. Setting United States. Participants Participants who reported using an FDA‐approved cessation medication on their own ( n = 619) and those who reported no use of cessation medications ( n = 1469). Interventions Participants were randomized to receive iCanQuit app or NCI's QuitGuide app. Measurements Use of FDA‐approved medications was measured at 3 months post‐randomization. Smoking cessation outcomes were measured at 3, 6 and 12 months. The primary outcome was 12‐month self‐reported 30‐day point prevalence abstinence (PPA). Findings The data retention rate at the 12‐month follow‐up was 94.0%. Participants were aged 38.5 years, 71.0% female, 36.6% minority race/ethnicity, 40.6% high school or less education, residing in all 50 US States and smoking 19.2 cigarettes/day. The 29.6% of all participants who used medications were more likely to choose nicotine replacement therapy (NRT; 78.8%) than other cessation medications (i.e. varenicline or bupropion; 18.3 and 10.5%, respectively) and use did not differ by app treatment assignment (all P > 0.05). There was a significant ( P = 0.049) interaction between medication use and app treatment assignment on PPA. Specifically, 12‐month quit rates were 34% for iCanQuit versus 20% for QuitGuide [odds ratio (OR) = 2.36, 95% confidence interval (CI) = 1.59, 3.49] among participants reporting any medication use, whereas among participants reporting no medication use, quit rates were 28% for iCanQuit versus 22% for QuitGuide (OR = 1.41, 95% CI = 1.09, 1.82). Results were stronger for those using only NRT: 40% quit rates for iCanQuit versus 18% quit rates for QuitGuide (OR = 3.57, 95% CI = 2.20, 5.79). Conclusions The iCanQuit smartphone app for smoking cessation was more efficacious than the QuitGuide smartphone app, regardless of whether participants used medications to aid cessation. Smoking cessation medications, especially nicotine replacement therapy, might enhance the efficacy of the iCanQuit app.",
+        "refs": [
+          "10.1016/s0140-6736(17)30819-x",
+          "10.1016/j.amepre.2009.12.006",
+          "10.1001/jamainternmed.2020.4055",
+          "10.1093/ntr/ntu102",
+          "10.2196/32847",
+          "10.1093/tbm/ibz128",
+          "10.1186/s12889-020-09820-0",
+          "10.3390/jcm10194304",
+          "10.1016/j.copsyc.2015.02.005",
+          "10.1016/j.ypmed.2022.107008",
+          "10.1016/j.drugalcdep.2021.109258",
+          "10.1080/10826084.2022.2161317",
+          "10.1093/tbm/iby097",
+          "10.1016/j.amepre.2008.04.009",
+          "10.1001/jama.2020.23541",
+          "10.7326/m15-2023",
+          "10.1001/jama.2016.2535",
+          "10.1093/ntr/ntac166",
+          "10.4137/tui.s15628",
+          "10.1093/ntr/ntaa050",
+          "10.1001/jamainternmed.2018.5713",
+          "10.2196/17530",
+          "10.1080/10550887.2022.2058300",
+          "10.2196/38206",
+          "10.3389/fpubh.2022.787135",
+          "10.1176/appi.ps.202000349",
+          "10.3390/ijerph17155290",
+          "10.1093/ntr/ntx106",
+          "10.1136/bmjopen-2015-009828",
+          "10.1097/phh.0b013e3182113871",
+          "10.1136/jech-2016-208103",
+          "10.1001/jamainternmed.2014.177",
+          "10.1136/thoraxjnl-2015-207904",
+          "10.2105/ajph.2009.185652",
+          "10.1016/s0140-6736(00)02039-0",
+          "10.1177/014662167700100306",
+          "10.1097/00006842-199905000-00016",
+          "10.1016/j.genhosppsych.2012.02.003",
+          "10.1080/10826080802347586",
+          "10.1111/j.1360-0443.1991.tb01879.x",
+          "10.1146/annurev.psych.58.110405.085530",
+          "10.1111/jrh.12335",
+          "10.18637/jss.v045.i03",
+          "10.1016/s0895-4356(98)00138-3",
+          "10.1016/j.jacc.2015.10.023",
+          "10.1016/j.beth.2009.08.002",
+          "10.1016/s0005-7894(04)80015-7",
+          "10.1016/j.addbeh.2016.12.008",
+          "10.1001/jamainternmed.2015.7792",
+          "10.1016/j.abrep.2018.07.003",
+          "10.18332/tpc/90649",
+          "10.1016/j.lungcan.2016.02.001",
+          "10.1093/tbm/iby108",
+          "10.2105/ajph.84.7.1086",
+          "10.1080/0955300031000083427",
+          "10.1093/ntr/ntq078"
+        ],
+        "impact": 11,
+        "source": "Crossref"
+      },
+      "tags": [
+        "iCanQuit"
+      ],
+      "summary": "There was a significant ( P = 0.049) interaction between medication use and app treatment assignment on PPA.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "9bxthk0",
+      "name": "jamainternal_bricker_2020_oi_200061_1603479614.09433",
+      "meta": {
+        "title": "Efficacy of Smartphone Applications for Smoking Cessation",
+        "authors": [
+          {
+            "family": "Bricker",
+            "given": "Jonathan B."
+          },
+          {
+            "family": "Watson",
+            "given": "Noreen L."
+          },
+          {
+            "family": "Mull",
+            "given": "Kristin E."
+          },
+          {
+            "family": "Sullivan",
+            "given": "Brianna M."
+          },
+          {
+            "family": "Heffner",
+            "given": "Jaimee L."
+          }
+        ],
+        "year": "2020",
+        "venue": "JAMA Internal Medicine",
+        "volume": "180",
+        "issue": "11",
+        "pages": "1472",
+        "publisher": "American Medical Association (AMA)",
+        "doi": "10.1001/jamainternmed.2020.4055",
+        "url": "https://doi.org/10.1001/jamainternmed.2020.4055",
+        "type": "journal-article",
+        "abstract": "Importance: Smoking is a leading cause of premature death globally. Smartphone applications for smoking cessation are ubiquitous and address barriers to accessing traditional treatments, yet there is limited evidence for their efficacy. Objective: To determine the efficacy of a smartphone application for smoking cessation based on acceptance and commitment therapy (ACT) vs a National Cancer Institute smoking cessation application based on US clinical practice guidelines (USCPG). Design, Setting, and Participants: A 2-group, stratified, double-blind, individually randomized clinical trial was conducted from May 27, 2017, to September 28, 2018, among 2415 adult cigarette smokers (n = 1214 for the ACT-based smoking cessation application group and n = 1201 for the USCPG-based smoking cessation application group) with 3-, 6-, and 12-month postrandomization follow-up. The study was prespecified in the trial protocol. Follow-up data collection started on August 26, 2017, and ended at the last randomized participant's 12-month follow-up survey on December 23, 2019. Data were analyzed from February 25 to April 3, 2020. The primary analysis was performed on a complete-case basis, with intent-to-treat missing as smoking and multiple imputation sensitivity analyses. Interventions: iCanQuit, an ACT-based smoking cessation application, which taught acceptance of smoking triggers, and the National Cancer Institute QuitGuide, a USCPG-based smoking cessation application, which taught avoidance of smoking triggers. Main Outcomes and Measures: The primary outcome was self-reported 30-day point prevalence abstinence (PPA) at 12 months after randomization. Secondary outcomes were 7-day PPA at 12 months after randomization, prolonged abstinence, 30-day and 7-day PPA at 3 and 6 months after randomization, missing data imputed with multiple imputation or coded as smoking, and cessation of all tobacco products (including e-cigarettes) at 12 months after randomization. Results: Participants were 2415 adult cigarette smokers (1700 women [70.4%]; 1666 White individuals [69.0%] and 868 racial/ethnic minorities [35.9%]; mean [SD] age at enrollment, 38.2 [10.9] years) from all 50 US states. The 3-month follow-up data retention rate was 86.7% (2093), the 6-month retention rate was 88.4% (2136), and the 12-month retention rate was 87.2% (2107). For the primary outcome of 30-day PPA at the 12-month follow-up, iCanQuit participants had 1.49 times higher odds of quitting smoking compared with QuitGuide participants (28.2% [293 of 1040] vs 21.1% [225 of 1067]; odds ratio [OR], 1.49; 95% CI, 1.22-1.83; P < .001). Effect sizes were very similar and statistically significant for 7-day PPA at the 12-month follow-up (OR, 1.35; 95% CI, 1.12-1.63; P = .002), prolonged abstinence at the 12-month follow-up (OR, 2.00; 95% CI, 1.45-2.76; P < .001), abstinence from all tobacco products (including e-cigarettes) at the 12-month follow-up (OR, 1.60; 95% CI, 1.28-1.99; P < .001), 30-day PPA at 3-month follow-up (OR, 2.20; 95% CI, 1.68-2.89; P < .001), 30-day PPA at 6-month follow-up (OR, 2.03; 95% CI, 1.63-2.54; P < .001), 7-day PPA at 3-month follow-up (OR, 2.04; 95% CI, 1.64-2.54; P < .001), and 7-day PPA at 6-month follow-up (OR, 1.73; 95% CI, 1.42-2.10; P < .001). Conclusions and Relevance: This trial provides evidence that, compared with a USCPG-based smartphone application, an ACT-based smartphone application was more efficacious for quitting cigarette smoking and thus can be an impactful treatment option. Trial Registration: ClinicalTrials.gov Identifier: NCT02724462.",
+        "refs": [
+          "10.1016/s0140-6736(16)31679-8",
+          "10.1016/s0140-6736(17)30819-x",
+          "10.1016/j.amepre.2009.12.006",
+          "10.1016/j.beth.2009.08.002",
+          "10.1037/a0017632",
+          "10.1093/ntr/ntt056",
+          "10.1111/add.v113.5",
+          "10.1016/j.drugalcdep.2014.07.006",
+          "10.4187/respcare.03883",
+          "10.1073/pnas.1011277108",
+          "10.1111/add.2009.104.issue-12",
+          "10.1111/add.2005.100.issue-s2",
+          "10.1177/014662167700100306",
+          "10.6004/jnccn.2016.0152",
+          "10.1080/10826080802347586",
+          "10.1111/add.1991.86.issue-9",
+          "10.1111/add.2007.102.issue-10",
+          "10.1093/ntr/ntn013",
+          "10.1016/s0895-4356(98)00138-3",
+          "10.2196/10351",
+          "10.1016/j.addbeh.2017.05.020",
+          "10.18332/tpc/90649",
+          "10.1093/ntr/nty126",
+          "10.1016/j.lungcan.2016.02.001",
+          "10.1080/14622200210123581",
+          "10.1093/ntr/ntz132",
+          "10.1146/annurev.psych.58.110405.085530",
+          "10.1007/978-0-387-21706-2"
+        ],
+        "impact": 236,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W3087179332",
+        "oaRefs": [
+          "https://openalex.org/W41223101",
+          "https://openalex.org/W1513618424",
+          "https://openalex.org/W1581663723",
+          "https://openalex.org/W1617145133",
+          "https://openalex.org/W1783209447",
+          "https://openalex.org/W1965322486",
+          "https://openalex.org/W1993548778",
+          "https://openalex.org/W2000457378",
+          "https://openalex.org/W2012796013",
+          "https://openalex.org/W2045213301",
+          "https://openalex.org/W2056853212",
+          "https://openalex.org/W2089288064",
+          "https://openalex.org/W2107351609",
+          "https://openalex.org/W2112778345",
+          "https://openalex.org/W2115098571",
+          "https://openalex.org/W2116814040",
+          "https://openalex.org/W2117261518",
+          "https://openalex.org/W2118061336",
+          "https://openalex.org/W2119181771",
+          "https://openalex.org/W2157434505",
+          "https://openalex.org/W2158598656",
+          "https://openalex.org/W2228339316",
+          "https://openalex.org/W2267628177",
+          "https://openalex.org/W2548489726",
+          "https://openalex.org/W2604860225",
+          "https://openalex.org/W2617998149",
+          "https://openalex.org/W2773563881",
+          "https://openalex.org/W2804319282",
+          "https://openalex.org/W2809419861",
+          "https://openalex.org/W2884857363",
+          "https://openalex.org/W2886267432",
+          "https://openalex.org/W2978389675",
+          "https://openalex.org/W2982082714",
+          "https://openalex.org/W3196006573",
+          "https://openalex.org/W4238298862",
+          "https://openalex.org/W4254410387",
+          "https://openalex.org/W4255055117",
+          "https://openalex.org/W4255067267",
+          "https://openalex.org/W4255333798",
+          "https://openalex.org/W4298826872",
+          "https://openalex.org/W4388958061",
+          "https://openalex.org/W6677667497",
+          "https://openalex.org/W6682892508",
+          "https://openalex.org/W6753488566",
+          "https://openalex.org/W6769424188"
+        ]
+      },
+      "tags": [
+        "iCanQuit"
+      ],
+      "summary": "The 3-month follow-up data retention rate was 86.7%, the 6-month retention rate was 88.4% (2136), and the 12-month retention rate was 87.2% (2107).",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "zsif2g7",
+      "name": "joi160104",
+      "meta": {
+        "title": "Effect of Wearable Technology Combined With a Lifestyle Intervention on Long-term Weight Loss",
+        "authors": [
+          {
+            "family": "Jakicic",
+            "given": "John M."
+          },
+          {
+            "family": "Davis",
+            "given": "Kelliann K."
+          },
+          {
+            "family": "Rogers",
+            "given": "Renee J."
+          },
+          {
+            "family": "King",
+            "given": "Wendy C."
+          },
+          {
+            "family": "Marcus",
+            "given": "Marsha D."
+          },
+          {
+            "family": "Helsel",
+            "given": "Diane"
+          },
+          {
+            "family": "Rickman",
+            "given": "Amy D."
+          },
+          {
+            "family": "Wahed",
+            "given": "Abdus S."
+          },
+          {
+            "family": "Belle",
+            "given": "Steven H."
+          }
+        ],
+        "year": "2016",
+        "venue": "JAMA",
+        "volume": "316",
+        "issue": "11",
+        "pages": "1161",
+        "publisher": "American Medical Association (AMA)",
+        "doi": "10.1001/jama.2016.12858",
+        "url": "https://doi.org/10.1001/jama.2016.12858",
+        "type": "journal-article",
+        "abstract": "Importance: Effective long-term treatments are needed to address the obesity epidemic. Numerous wearable technologies specific to physical activity and diet are available, but it is unclear if these are effective at improving weight loss. Objective: To test the hypothesis that, compared with a standard behavioral weight loss intervention (standard intervention), a technology-enhanced weight loss intervention (enhanced intervention) would result in greater weight loss. Design, Setting, Participants: Randomized clinical trial conducted at the University of Pittsburgh and enrolling 471 adult participants between October 2010 and October 2012, with data collection completed by December 2014. Interventions: Participants were placed on a low-calorie diet, prescribed increases in physical activity, and had group counseling sessions. At 6 months, the interventions added telephone counseling sessions, text message prompts, and access to study materials on a website. At 6 months, participants randomized to the standard intervention group initiated self-monitoring of diet and physical activity using a website, and those randomized to the enhanced intervention group were provided with a wearable device and accompanying web interface to monitor diet and physical activity. Main Outcomes and Measures: The primary outcome of weight was measured over 24 months at 6-month intervals, and the primary hypothesis tested the change in weight between 2 groups at 24 months. Secondary outcomes included body composition, fitness, physical activity, and dietary intake. Results: Among the 471 participants randomized (body mass index [BMI], 25 to <40; age range, 18-35 years; 28.9% nonwhite, 77.2% women), 470 (233 in the standard intervention group, 237 in the enhanced intervention group) initiated the interventions as randomized, and 74.5% completed the study. For the enhanced intervention group, mean base line weight was 96.3 kg (95% CI, 94.2-98.5) and 24-month weight 92.8 kg (95% CI, 90.6- 95.0) [corrected]. For the standard intervention group, mean baseline weight was 95.2kg (95%CI,93.0-97.3)and24-month weight was 89.3 kg (95%CI, 87.1-91.5) [corrected]. Weight change at 24 months differed significantly by intervention group (estimated mean weight loss, 3.5 kg [95% CI, 2.6-4.5} in the enhanced intervention group and 5.9 kg [95% CI, 5.0-6.8] in the standard intervention group; difference, 2.4 kg [95% CI, 1.0-3.7]; P = .002). Both groups had significant improvements in body composition, fitness, physical activity, and diet, with no significant difference between groups. Conclusions and Relevance: Among young adults with a BMI between 25 and less than 40, the addition of a wearable technology device to a standard behavioral intervention resulted in less weight loss over 24 months. Devices that monitor and provide feedback on physical activity may not offer an advantage over standard behavioral weight loss approaches. Trial Registration: clinicaltrials.gov Identifier: NCT01131871.",
+        "refs": [],
+        "impact": 627,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2522531501",
+        "oaRefs": [
+          "https://openalex.org/W1580839177",
+          "https://openalex.org/W1886179501",
+          "https://openalex.org/W1977562703",
+          "https://openalex.org/W1990263623",
+          "https://openalex.org/W1993959691",
+          "https://openalex.org/W2009938297",
+          "https://openalex.org/W2035348176",
+          "https://openalex.org/W2036052614",
+          "https://openalex.org/W2042319268",
+          "https://openalex.org/W2049460685",
+          "https://openalex.org/W2072088591",
+          "https://openalex.org/W2078569103",
+          "https://openalex.org/W2087279974",
+          "https://openalex.org/W2093643113",
+          "https://openalex.org/W2095561638",
+          "https://openalex.org/W2099405013",
+          "https://openalex.org/W2107832644",
+          "https://openalex.org/W2112778345",
+          "https://openalex.org/W2114086832",
+          "https://openalex.org/W2121044470",
+          "https://openalex.org/W2123931921",
+          "https://openalex.org/W2141214903",
+          "https://openalex.org/W2142150409",
+          "https://openalex.org/W2153203930",
+          "https://openalex.org/W2154540302",
+          "https://openalex.org/W2266982813",
+          "https://openalex.org/W2319606026",
+          "https://openalex.org/W2327097081",
+          "https://openalex.org/W2345682597",
+          "https://openalex.org/W3119564266",
+          "https://openalex.org/W3172478362",
+          "https://openalex.org/W3214923421",
+          "https://openalex.org/W4242490142",
+          "https://openalex.org/W4253625092",
+          "https://openalex.org/W4298039060",
+          "https://openalex.org/W6637433738"
+        ]
+      },
+      "tags": [],
+      "summary": "Both groups had significant improvements in body composition, fitness, physical activity, and diet, with no significant difference between groups.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "skzz2u2",
+      "name": "Feature-level analysis of a novel smartphone application for smoking cessation",
+      "meta": {
+        "title": "Feature-level analysis of a novel smartphone application for smoking cessation",
+        "authors": [
+          {
+            "family": "Heffner",
+            "given": "Jaimee L."
+          },
+          {
+            "family": "Vilardaga",
+            "given": "Roger"
+          },
+          {
+            "family": "Mercer",
+            "given": "Laina D."
+          },
+          {
+            "family": "Kientz",
+            "given": "Julie A."
+          },
+          {
+            "family": "Bricker",
+            "given": "Jonathan B."
+          }
+        ],
+        "year": "2014",
+        "venue": "The American Journal of Drug and Alcohol Abuse",
+        "volume": "41",
+        "issue": "1",
+        "pages": "68-73",
+        "publisher": "Informa UK Limited",
+        "doi": "10.3109/00952990.2014.977486",
+        "url": "https://doi.org/10.3109/00952990.2014.977486",
+        "type": "journal-article",
+        "abstract": "BACKGROUND: Currently, there are over 400 smoking cessation smartphone apps available, downloaded an estimated 780,000 times per month. No prior studies have examined how individuals engage with specific features of cessation apps and whether use of these features is associated with quitting. OBJECTIVES: Using data from a pilot trial of a novel smoking cessation app, we examined: (i) the 10 most-used app features, and (ii) prospective associations between feature usage and quitting. METHODS: Participants (n = 76) were from the experimental arm of a randomized, controlled pilot trial of an app for smoking cessation called \"SmartQuit,\" which includes elements of both Acceptance and Commitment Therapy (ACT) and traditional cognitive behavioral therapy (CBT). Utilization data were automatically tracked during the 8-week treatment phase. Thirty-day point prevalence smoking abstinence was assessed at 60-day follow-up. RESULTS: The most-used features - quit plan, tracking, progress, and sharing - were mostly CBT. Only two of the 10 most-used features were prospectively associated with quitting: viewing the quit plan (p = 0.03) and tracking practice of letting urges pass (p = 0.03). Tracking ACT skill practice was used by fewer participants (n = 43) but was associated with cessation (p = 0.01). CONCLUSIONS: In this exploratory analysis without control for multiple comparisons, viewing a quit plan (CBT) as well as tracking practice of letting urges pass (ACT) were both appealing to app users and associated with successful quitting. Aside from these features, there was little overlap between a feature's popularity and its prospective association with quitting. Tests of causal associations between feature usage and smoking cessation are now needed.",
+        "refs": [
+          "10.1016/j.amepre.2013.07.008",
+          "10.1016/j.amepre.2010.10.032",
+          "10.2196/jmir.2277",
+          "10.1093/ntr/ntt056",
+          "10.1016/s0005-7894(04)80015-7",
+          "10.1037/a0017632",
+          "10.1093/ntr/ntu102",
+          "10.1016/j.drugalcdep.2014.07.006",
+          "10.1080/14622200500431940",
+          "10.1080/14622200210123581",
+          "10.1136/tc.2006.019794",
+          "10.1037/h0027108"
+        ],
+        "impact": 119,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2057730640",
+        "oaRefs": [
+          "https://openalex.org/W118829757",
+          "https://openalex.org/W1588882127",
+          "https://openalex.org/W1590048997",
+          "https://openalex.org/W1965322486",
+          "https://openalex.org/W1977602123",
+          "https://openalex.org/W1978047481",
+          "https://openalex.org/W2000457378",
+          "https://openalex.org/W2001985280",
+          "https://openalex.org/W2012980101",
+          "https://openalex.org/W2021525972",
+          "https://openalex.org/W2031827201",
+          "https://openalex.org/W2089288064",
+          "https://openalex.org/W2118502313",
+          "https://openalex.org/W2131438875",
+          "https://openalex.org/W2228339316",
+          "https://openalex.org/W2326963428",
+          "https://openalex.org/W3022870108",
+          "https://openalex.org/W4254410387"
+        ]
+      },
+      "tags": [
+        "iCanQuit"
+      ],
+      "summary": "Aside from these features, there was little overlap between a feature's popularity and its prospective association with quitting.",
+      "isNew": false,
+      "addedAt": 0,
+      "hasFile": true
+    },
+    {
+      "id": "qvn2a1c",
+      "name": "jmir-2018-8-e10351",
+      "meta": {
+        "title": "Participant Recruitment and Retention in Remote eHealth Intervention Trials: Methods and Lessons Learned From a Large Randomized Controlled Trial of Two Web-Based Smoking Interventions",
+        "authors": [
+          {
+            "family": "Watson",
+            "given": "Noreen L"
+          },
+          {
+            "family": "Mull",
+            "given": "Kristin E"
+          },
+          {
+            "family": "Heffner",
+            "given": "Jaimee L"
+          },
+          {
+            "family": "McClure",
+            "given": "Jennifer B"
+          },
+          {
+            "family": "Bricker",
+            "given": "Jonathan B"
+          }
+        ],
+        "year": "2018",
+        "venue": "Journal of Medical Internet Research",
+        "volume": "20",
+        "issue": "8",
+        "pages": "e10351",
+        "publisher": "JMIR Publications Inc.",
+        "doi": "10.2196/10351",
+        "url": "https://doi.org/10.2196/10351",
+        "type": "journal-article",
+        "abstract": "BACKGROUND: Despite having many advantages, online eHealth trials are not without challenges-notably, participant recruitment, and outcome data retention. Moreover, publications from these trials rarely provide detailed information on the methods used for recruitment and retention or discuss implications of the methods for future studies. OBJECTIVE: To address this need for empirical guidance regarding recruitment and outcome data retention planning, we aim to describe the methods and lessons learned from the recruitment and retention procedures used in a large randomized trial of 2 Web-based smoking cessation interventions. METHODS: To ensure a demographically and geographically diverse participant sample, we used the recruitment strategies (1) traditional, (2) Web-based, and (3) online survey panel methods and adaptively modified each in response to recruitment success. At baseline, participants indicated how they heard about the study and answered demographic questions. To maximize trial retention at each of the 3-, 6-, and 12-month assessment points, 4 survey modalities (first Web, followed by phone, mail, and postcard) were sequentially timed over a 30-day period. Participants received US $25 for submitting their responses, regardless of modality, and received an additional US $10 bonus for completing the Web survey within 24h of electronic notification. RESULTS: We randomized 2637 smokers in 16 months and achieved 88% retention at 12-months. Participants (79.26% female, 72.60% Caucasian) were recruited from all 50 states. The majority of participants were recruited through Facebook (49.43%), followed by the survey panel (20.85%), free internet sources (14.54%), traditional media (11.34%), and Google ads (3.84%). Descriptively, participant demographics varied by recruitment source. Of the completed follow-up surveys, most were completed by Web (92%). Retention rates did not vary by recruitment source. CONCLUSIONS: Continuous monitoring and refinement of multiple recruitment methods, particularly of online advertising campaigns, allowed us to maximize the effectiveness of recruitment strategies in recruiting a large, diverse sample of smokers. Likewise, offering multiple follow-up survey modalities in sequential order along with time-dependent bonus incentives enabled us to obtain outcome data from a very high level of enrolled participants for the duration of the trial protocol. These strategies may be similarly useful in other trials. TRIAL REGISTRATION: ClinicalTrials.gov NCT01812278; https://clinicaltrials.gov/ct2/show/NCT01812278 (Archived by WebCite at http://www.webcitation.org/71gy5GLvO).",
+        "refs": [
+          "10.2196/jmir.1052",
+          "10.1136/bmjinnov-2015-000098",
+          "10.1001/jama.2014.1361",
+          "10.1111/j.1365-2702.2009.03041.x",
+          "10.1007/s12160-009-9129-0",
+          "10.2196/jmir.4061",
+          "10.1186/s12889-016-3821-3",
+          "10.2196/jmir.8595",
+          "10.2196/jmir.5502",
+          "10.2196/jmir.5698",
+          "10.1016/j.invent.2016.02.001",
+          "10.1186/1745-6215-14-166",
+          "10.1177/1740774514558307",
+          "10.1542/peds.2016-0223",
+          "10.2196/jmir.6482",
+          "10.2196/jmir.7.1.e11",
+          "10.1348/014466509x472138",
+          "10.1111/j.1360-0443.2007.02063.x",
+          "10.1136/adc.2007.127316",
+          "10.1080/14622200110050411",
+          "10.1080/14622200601039014",
+          "10.1021/cr9002787",
+          "10.1001/jamapsychiatry.2016.3249",
+          "10.2196/resprot.5653",
+          "10.1093/heapro/das029",
+          "10.5993/ajhb.41.1.6",
+          "10.2196/jmir.4359",
+          "10.1111/add.14127",
+          "10.1093/ntr/ntt056",
+          "10.3390/ijerph13121251",
+          "10.2196/resprot.5747",
+          "10.1177/014662167700100306",
+          "10.1001/archinte.166.10.1092",
+          "10.1097/00006842-199905000-00016",
+          "10.1016/j.genhosppsych.2012.02.003",
+          "10.1002/da.1055",
+          "10.1016/j.ssresearch.2008.03.007",
+          "10.1111/j.2517-6161.1995.tb02031.x",
+          "10.2196/jmir.1001",
+          "10.2196/jmir.5691",
+          "10.1016/j.invent.2015.04.002",
+          "10.2196/jmir.2262",
+          "10.2196/jmir.2986",
+          "10.2196/jmir.5602",
+          "10.2196/jmir.7071",
+          "10.2196/jmir.9461",
+          "10.2196/resprot.7918",
+          "10.2196/publichealth.7545",
+          "10.1016/j.amepre.2014.04.010",
+          "10.1016/j.drugalcdep.2016.10.029",
+          "10.2196/jmir.7747",
+          "10.1007/s12160-016-9804-x",
+          "10.2196/jmir.3117",
+          "10.2196/jmir.2336"
+        ],
+        "impact": 138,
+        "source": "Crossref",
+        "oaId": "https://openalex.org/W2886267432",
+        "oaRefs": [
+          "https://openalex.org/W93611186",
+          "https://openalex.org/W1506894283",
+          "https://openalex.org/W1967583124",
+          "https://openalex.org/W1975028092",
+          "https://openalex.org/W1975971094",
+          "https://openalex.org/W1993135991",
+          "https://openalex.org/W2000457378",
+          "https://openalex.org/W2003601487",
+          "https://openalex.org/W2018974442",
+          "https://openalex.org/W2031201873",
+          "https://openalex.org/W2034370904",
+          "https://openalex.org/W2034893913",
+          "https://openalex.org/W2037778859",
+          "https://openalex.org/W2042855553",
+          "https://openalex.org/W2043705607",
+          "https://openalex.org/W2059913296",
+          "https://openalex.org/W2078254424",
+          "https://openalex.org/W2078572373",
+          "https://openalex.org/W2099878597",
+          "https://openalex.org/W2101278939",
+          "https://openalex.org/W2102725242",
+          "https://openalex.org/W2106291196",
+          "https://openalex.org/W2110065044",
+          "https://openalex.org/W2112778345",
+          "https://openalex.org/W2121068634",
+          "https://openalex.org/W2128251606",
+          "https://openalex.org/W2131174921",
+          "https://openalex.org/W2133458555",
+          "https://openalex.org/W2135120878",
+          "https://openalex.org/W2143062300",
+          "https://openalex.org/W2147363989",
+          "https://openalex.org/W2165002752",
+          "https://openalex.org/W2261303017",
+          "https://openalex.org/W2282737262",
+          "https://openalex.org/W2410463254",
+          "https://openalex.org/W2411763774",
+          "https://openalex.org/W2425016936",
+          "https://openalex.org/W2470805604",
+          "https://openalex.org/W2479326432",
+          "https://openalex.org/W2484863669",
+          "https://openalex.org/W2490038287",
+          "https://openalex.org/W2518851768",
+          "https://openalex.org/W2548967559",
+          "https://openalex.org/W2553291404",
+          "https://openalex.org/W2555545138",
+          "https://openalex.org/W2558123475",
+          "https://openalex.org/W2560404906",
+          "https://openalex.org/W2562874083",
+          "https://openalex.org/W2563766843",
+          "https://openalex.org/W2620731339",
+          "https://openalex.org/W2747587219",
+          "https://openalex.org/W2769826289",
+          "https://openalex.org/W2773563881",
+          "https://openalex.org/W2784877078",
+          "https://openalex.org/W2786928256",
+          "https://openalex.org/W2809562162",
+          "https://openalex.org/W4289257222"
+        ]
+      },
+      "tags": [
+        "iCanQuit"
+      ],
+      "summary": "TRIAL REGISTRATION: ClinicalTrials.gov NCT01812278; https://clinicaltrials.gov/ct2/show/NCT01812278 (Archived by WebCite at http://www.webcitation.org/71gy5GLvO).",
+      "isNew": true,
+      "addedAt": 1785834669105,
+      "hasFile": true
+    },
+    {
+      "id": "6poctwk",
+      "name": "1471-244X-13-296",
+      "meta": {
+        "title": "Motivation to persist with internet-based cognitive behavioural treatment using blended care: a qualitative study",
+        "authors": [
+          {
+            "family": "Wilhelmsen",
+            "given": "Maja"
+          },
+          {
+            "family": "Lillevoll",
+            "given": "Kjersti"
+          },
+          {
+            "family": "Bech Risør",
+            "given": "Mette"
+          },
+          {
+            "family": "Sørensen Høifødt",
+            "given": "Ragnhild"
+          },
+          {
+            "family": "Johansen",
+            "given": "May‐Lill"
+          },
+          {
+            "family": "Waterloo",
+            "given": "Knut"
+          },
+          {
+            "family": "Eisemann",
+            "given": "Martin"
+          },
+          {
+            "family": "Kolstrup",
+            "given": "Nils"
+          }
+        ],
+        "year": "2013",
+        "venue": "BMC Psychiatry",
+        "volume": "13",
+        "issue": "1",
+        "pages": "296–296",
+        "publisher": "BioMed Central",
+        "doi": "10.1186/1471-244x-13-296",
+        "url": "https://doi.org/10.1186/1471-244x-13-296",
+        "type": "article",
+        "abstract": "BACKGROUND: The prevalence of depression is high and results in huge costs for society. Internet-based cognitive behavioural treatment (ICBT) has been suggested for use in primary care and has been shown to be more effective when combined with human support. However, non-completion rates remain a challenge. Current recommendations state that steps to improve persistence with ICBT should be determined and the impact of therapist support on persistence explored. A few earlier studies have explored motivations to persist with ICBT without face-to-face therapist support. The present study explored the motivation to persist as experienced by a group of patients who sought help in primary care and used \"blended care\", i.e. ICBT supported by short face-to-face consultations. METHODS: To elucidate motivation in an everyday context and the meaning of patients' experiences we chose a phenomenological hermeneutical approach. We interviewed participants in the intervention group of a randomized controlled trial that evaluated the efficacy of an ICBT programme called MoodGYM, an eHealth intervention used to treat depression. Fourteen participants, both completers and non-completers, went through individual, semi-structured interviews after they ended their treatment. RESULTS: Hope of recovery and a desire to gain control of one's life were identified as intrinsic motivators. The feeling of being able to freely choose how, when and where to complete the ICBT modules was identified as an important supporting condition and satisfied the participants' need for autonomy. Furthermore, the importance of a sense of belonging towards partners, friends or family was essential for motivation as was the ability to identify with ICBT content. Another supporting condition was the experience of connectedness when met with acknowledgement, flexibility and feedback from a qualified therapist in the face-to-face consultations. CONCLUSIONS: A key finding was that participants were motivated to persist with ICBT when their overall need for relatedness was satisfied. This was achieved through a sense of belonging towards partners, friends and family. Connectedness with the therapist and the participant's ability to identify with the ICBT modules also gave a sense of relatedness. Improving these motivational aspects may increase patients' persistence with ICBT.",
+        "oaId": "https://openalex.org/W2154969199",
+        "oaRefs": [
+          "https://openalex.org/W1529927872",
+          "https://openalex.org/W1595165091",
+          "https://openalex.org/W1622527855",
+          "https://openalex.org/W1965110595",
+          "https://openalex.org/W1974545280",
+          "https://openalex.org/W1988007944",
+          "https://openalex.org/W2002817157",
+          "https://openalex.org/W2004907935",
+          "https://openalex.org/W2006553449",
+          "https://openalex.org/W2011308676",
+          "https://openalex.org/W2027163873",
+          "https://openalex.org/W2034370904",
+          "https://openalex.org/W2056991655",
+          "https://openalex.org/W2075700213",
+          "https://openalex.org/W2078904464",
+          "https://openalex.org/W2086497737",
+          "https://openalex.org/W2097857086",
+          "https://openalex.org/W2105568547",
+          "https://openalex.org/W2107020933",
+          "https://openalex.org/W2107460941",
+          "https://openalex.org/W2110437918",
+          "https://openalex.org/W2110920143",
+          "https://openalex.org/W2113278009",
+          "https://openalex.org/W2120475250",
+          "https://openalex.org/W2121622185",
+          "https://openalex.org/W2122517769",
+          "https://openalex.org/W2126323206",
+          "https://openalex.org/W2131721258",
+          "https://openalex.org/W2138142806",
+          "https://openalex.org/W2141846678",
+          "https://openalex.org/W2144269887",
+          "https://openalex.org/W2146284085",
+          "https://openalex.org/W2146982643",
+          "https://openalex.org/W2152550033",
+          "https://openalex.org/W2158554250",
+          "https://openalex.org/W2163767087",
+          "https://openalex.org/W2164737511",
+          "https://openalex.org/W2164988962",
+          "https://openalex.org/W2168844630",
+          "https://openalex.org/W2315154775",
+          "https://openalex.org/W4242883546"
+        ],
+        "impact": 157,
+        "source": "OpenAlex"
+      },
+      "tags": [],
+      "summary": "The feeling of being able to freely choose how, when and where to complete the ICBT modules was identified as an important supporting condition and satisfied the participants' need for autonomy.",
+      "isNew": true,
+      "addedAt": 1785837378375,
+      "hasFile": true
+    },
+    {
+      "id": "ikaf4pr",
+      "name": "sustainability-16-10262-v2",
+      "meta": {
+        "title": "Determining the Applicability and Use of the Intrinsic Motivation Inventory in the Context of Water Conservation",
+        "authors": [
+          {
+            "family": "Gibson",
+            "given": "Kristin E."
+          },
+          {
+            "family": "Erskine",
+            "given": "Olivia M."
+          },
+          {
+            "family": "Lamm",
+            "given": "Kevan W."
+          },
+          {
+            "family": "Lamm",
+            "given": "Alexa J."
+          },
+          {
+            "family": "Warner",
+            "given": "Laura A."
+          },
+          {
+            "family": "Holt",
+            "given": "Jessica"
+          }
+        ],
+        "year": "2024",
+        "venue": "Sustainability",
+        "volume": "16",
+        "issue": "23",
+        "pages": "10262",
+        "publisher": "MDPI AG",
+        "doi": "10.3390/su162310262",
+        "url": "https://doi.org/10.3390/su162310262",
+        "type": "journal-article",
+        "abstract": "Urgent action is needed to educate the public and encourage water conservation behaviors amidst the global threat of water scarcity impacting billions by 2050. Crafting tailored educational programs about water conservation is crucial for incentivizing behavior change and achieving the Sustainable Development Goals. Intrinsic motivation, which is shaped by personal interests and values, plays a fundamental role in understanding individual behavior in various contexts, and therefore may aid in our understanding of water conservation behaviors. Despite the widespread application of the intrinsic motivation inventory (IMI) to measure intrinsic motivation, its adaptation and utilization in water conservation education remains largely unexplored, prompting this study to establish a relevant scale for intrinsic motivation in the context of water conservation education. Data were collected from 907 respondents in Florida, Georgia, and Alabama and subsequently analyzed using an exploratory factor analysis and confirmatory factor analysis to establish and confirm factor structures related to intrinsic motivation, perceived competence, perceived choice, and relatedness in water conservation. The study findings established the Water Conservation IMI as a reliable tool for measuring intrinsic motivation in water conservation education. Further validation of measures for extrinsic motivation in environmental literature are needed to enhance comprehensive education strategies for sustainability.",
+        "refs": [
+          "10.1016/j.jenvman.2022.114848",
+          "10.1016/j.jenvman.2021.112683",
+          "10.1080/08941920.2014.929768",
+          "10.1007/s10040-019-01979-0",
+          "10.1016/j.jenvman.2019.06.126",
+          "10.5032/jae.2018.02032",
+          "10.1016/j.jenvman.2012.03.042",
+          "10.1016/j.simpat.2017.08.006",
+          "10.3390/w10080993",
+          "10.3390/w13182581",
+          "10.1177/0193841x0002400601",
+          "10.3390/w10111510",
+          "10.1126/sciadv.1700784",
+          "10.1029/2018wr023306",
+          "10.1080/1389224x.2020.1844771",
+          "10.1007/s11269-022-03354-3",
+          "10.3390/w15234114",
+          "10.1016/j.jenvman.2021.113858",
+          "10.1177/0013916517725371",
+          "10.1016/s0065-2601(08)60130-6",
+          "10.4324/9781351257848-7",
+          "10.1093/oso/9780198793182.001.0001",
+          "10.1007/978-90-481-9667-8_3",
+          "10.1207/s15327965pli1104_01",
+          "10.3390/su11030640",
+          "10.1080/713676702",
+          "10.1016/j.jenvman.2019.04.107",
+          "10.1037/0022-3514.43.3.450",
+          "10.1037/0022-3514.45.4.736",
+          "10.1111/j.1467-6494.1994.tb00797.x",
+          "10.1016/1041-6080(90)90014-8",
+          "10.1007/bf00995170",
+          "10.1111/j.1467-6494.1985.tb00375.x",
+          "10.1590/1678-7153.201528302",
+          "10.1080/02701367.1989.10607413",
+          "10.3897/natureconservation.18.13429",
+          "10.1158/1055-9965.epi-19-0846",
+          "10.1093/jssam/smt008",
+          "10.1177/0095798418771807",
+          "10.1080/10705519909540118",
+          "10.1177/002224378101800104",
+          "10.1080/17437199.2013.869710",
+          "10.3390/w15132365",
+          "10.1080/17524032.2017.1412994",
+          "10.1016/j.addbeh.2017.05.005",
+          "10.5153/sro.3199"
+        ],
+        "impact": 3,
+        "source": "Crossref"
+      },
+      "tags": [],
+      "summary": "The study findings established the Water Conservation IMI as a reliable tool for measuring intrinsic motivation in water conservation education.",
+      "isNew": true,
+      "addedAt": 1785847266661,
+      "hasFile": true
+    }
+  ],
   "ui": {
-    "view": "matrix",
+    "view": "library",
     "theme": "auto",
-    "pdfWin": null,
+    "pdfWin": {
+      "w": 1203,
+      "h": 1246,
+      "x": 1355,
+      "y": 2
+    },
     "libSort": "added",
     "libSearch": "",
     "tagFilter": [],
     "typeFilter": [],
     "boardBy": "type",
     "board": true,
-    "topics": [],
+    "topics": [
+      "Review",
+      "SDT",
+      "PokemonGo",
+      "iCanQuit"
+    ],
     "graph": {
       "layout": "timeline",
       "cites": true,
-      "author": true,
+      "author": false,
       "venue": false,
-      "topic": true,
-      "tag": true
+      "topic": false,
+      "tag": false,
+      "pos": {
+        "timeline": {
+          "i9jd26r": {
+            "x": 1561,
+            "y": 1327,
+            "b": false
+          },
+          "ar5xkk2": {
+            "x": 2006,
+            "y": 685,
+            "b": false
+          },
+          "mt752ew": {
+            "x": 312,
+            "y": 610,
+            "b": false
+          },
+          "49tdaji": {
+            "x": 954,
+            "y": 604,
+            "b": true
+          },
+          "0pz2242": {
+            "x": 2369,
+            "y": 474,
+            "b": false
+          },
+          "rofgqdg": {
+            "x": 2490,
+            "y": 506,
+            "b": false
+          },
+          "7du2217": {
+            "x": 2490,
+            "y": 656,
+            "b": true
+          },
+          "sts5dp6": {
+            "x": 685,
+            "y": 855,
+            "b": false
+          },
+          "x9xt54h": {
+            "x": 675,
+            "y": 524,
+            "b": false
+          },
+          "zqfz6xf": {
+            "x": 2369,
+            "y": 926,
+            "b": true
+          },
+          "nwlz5qs": {
+            "x": 1919,
+            "y": 1156,
+            "b": false
+          },
+          "umoov7j": {
+            "x": 70,
+            "y": 572,
+            "b": false
+          },
+          "z13wn7m": {
+            "x": 644,
+            "y": 1032,
+            "b": false
+          },
+          "fdkkp1g": {
+            "x": 2369,
+            "y": 995,
+            "b": false
+          },
+          "146ty9t": {
+            "x": 1182,
+            "y": 1351,
+            "b": false
+          },
+          "s982is6": {
+            "x": 433,
+            "y": 502,
+            "b": false
+          },
+          "oanbuqf": {
+            "x": 2248,
+            "y": 755,
+            "b": false
+          },
+          "mg41a6x": {
+            "x": 1107,
+            "y": 922,
+            "b": false
+          },
+          "9sgr5i4": {
+            "x": 452,
+            "y": 830,
+            "b": false
+          },
+          "huz1mny": {
+            "x": 1522,
+            "y": 783,
+            "b": false
+          },
+          "mwv9vq5": {
+            "x": 1401,
+            "y": 495,
+            "b": false
+          },
+          "kifr7sz": {
+            "x": 1764,
+            "y": 918,
+            "b": false
+          },
+          "0jfi5eq": {
+            "x": 2127,
+            "y": 510,
+            "b": false
+          },
+          "9bxthk0": {
+            "x": 1764,
+            "y": 518,
+            "b": false
+          },
+          "zsif2g7": {
+            "x": 1280,
+            "y": 612,
+            "b": false
+          },
+          "skzz2u2": {
+            "x": 1038,
+            "y": 802,
+            "b": false
+          },
+          "qvn2a1c": {
+            "x": 1522,
+            "y": 527,
+            "b": false
+          },
+          "6poctwk": {
+            "x": 917,
+            "y": 495,
+            "b": false
+          },
+          "c4dsyzd": {
+            "x": 2248,
+            "y": 567,
+            "b": false
+          }
+        }
+      }
     },
-    "pdfNight": false
+    "pdfNight": false,
+    "projectName": "literature-review-for-engagement",
+    "boardBySet": true
   },
   "sort": {
-    "key": null,
-    "dir": 1
+    "key": "type",
+    "dir": -1
   },
   "filterPaper": "",
   "filterType": "",
