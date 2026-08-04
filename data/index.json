@@ -106,7 +106,7 @@
       "id": "uul0osy",
       "paperId": "7du2217",
       "type": "",
-      "insight": "",
+      "insight": "qweq",
       "evidence": [],
       "cells": {},
       "h": null,
@@ -116,7 +116,7 @@
       "id": "po8wx6z",
       "paperId": "sts5dp6",
       "type": "",
-      "insight": "",
+      "insight": "qweq",
       "evidence": [],
       "cells": {},
       "h": null,
@@ -126,7 +126,7 @@
       "id": "6yldajs",
       "paperId": "x9xt54h",
       "type": "",
-      "insight": "",
+      "insight": "qwe",
       "evidence": [],
       "cells": {},
       "h": null,
@@ -383,7 +383,7 @@
         "c_l70gfkn": ""
       },
       "h": null,
-      "expand": "insight"
+      "expand": null
     },
     {
       "id": "ps3sk5b",
@@ -451,13 +451,6 @@
   ],
   "typeColors": {},
   "tagColors": {},
-  "gh": {
-    "owner": "ZheyuanZZ",
-    "repo": "motivation_engagement_review",
-    "branch": "main",
-    "remember": false,
-    "token": ""
-  },
   "papers": [
     {
       "id": "i9jd26r",
@@ -3841,7 +3834,7 @@
     }
   ],
   "ui": {
-    "view": "matrix",
+    "view": "library",
     "theme": "auto",
     "pdfWin": {
       "w": 1203,
@@ -3871,128 +3864,148 @@
       "pos": {
         "timeline": {
           "i9jd26r": {
-            "x": 1716,
-            "y": 875,
+            "x": 1561,
+            "y": 1327,
             "b": false
           },
           "ar5xkk2": {
             "x": 2006,
-            "y": 704,
+            "y": 685,
             "b": false
           },
           "mt752ew": {
             "x": 312,
-            "y": 639,
+            "y": 610,
             "b": false
           },
           "49tdaji": {
-            "x": 942,
-            "y": 776,
+            "x": 954,
+            "y": 604,
             "b": true
           },
           "0pz2242": {
             "x": 2369,
-            "y": 514,
+            "y": 474,
             "b": false
           },
           "rofgqdg": {
             "x": 2490,
-            "y": 501,
+            "y": 506,
             "b": false
           },
           "7du2217": {
             "x": 2490,
-            "y": 677,
+            "y": 656,
             "b": true
           },
           "sts5dp6": {
             "x": 685,
-            "y": 685,
+            "y": 855,
             "b": false
           },
           "x9xt54h": {
             "x": 675,
-            "y": 561,
+            "y": 524,
             "b": false
           },
           "zqfz6xf": {
             "x": 2369,
-            "y": 940,
+            "y": 926,
             "b": true
           },
           "nwlz5qs": {
-            "x": 1894,
-            "y": 994,
+            "x": 1919,
+            "y": 1156,
             "b": false
           },
           "umoov7j": {
             "x": 70,
-            "y": 568,
+            "y": 572,
             "b": false
           },
           "z13wn7m": {
-            "x": 655,
-            "y": 1174,
+            "x": 644,
+            "y": 1032,
             "b": false
           },
           "fdkkp1g": {
             "x": 2369,
-            "y": 1010,
+            "y": 995,
             "b": false
           },
           "146ty9t": {
-            "x": 1470,
-            "y": 992,
+            "x": 1182,
+            "y": 1351,
             "b": false
           },
           "s982is6": {
             "x": 433,
-            "y": 523,
+            "y": 502,
             "b": false
           },
           "oanbuqf": {
             "x": 2248,
-            "y": 776,
+            "y": 755,
             "b": false
           },
           "mg41a6x": {
             "x": 1107,
-            "y": 924,
+            "y": 922,
             "b": false
           },
           "9sgr5i4": {
             "x": 452,
-            "y": 972,
+            "y": 830,
             "b": false
           },
           "huz1mny": {
             "x": 1522,
-            "y": 835,
+            "y": 783,
             "b": false
           },
           "mwv9vq5": {
             "x": 1401,
-            "y": 496,
+            "y": 495,
             "b": false
           },
           "kifr7sz": {
             "x": 1764,
-            "y": 945,
+            "y": 918,
             "b": false
           },
           "0jfi5eq": {
             "x": 2127,
-            "y": 534,
+            "y": 510,
             "b": false
           },
           "9bxthk0": {
             "x": 1764,
-            "y": 537,
+            "y": 518,
             "b": false
           },
           "zsif2g7": {
             "x": 1280,
-            "y": 601,
+            "y": 612,
+            "b": false
+          },
+          "skzz2u2": {
+            "x": 1038,
+            "y": 802,
+            "b": false
+          },
+          "qvn2a1c": {
+            "x": 1522,
+            "y": 527,
+            "b": false
+          },
+          "6poctwk": {
+            "x": 917,
+            "y": 495,
+            "b": false
+          },
+          "c4dsyzd": {
+            "x": 2248,
+            "y": 567,
             "b": false
           }
         }
