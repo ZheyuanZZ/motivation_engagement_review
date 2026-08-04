@@ -437,13 +437,22 @@
     },
     {
       "id": "ort1xe3",
-      "paperId": "c4dsyzd",
+      "paperId": "",
       "type": "Anti-case",
       "insight": "<b>Conflating intrinsic and identified</b>",
       "evidence": [],
       "cells": {},
       "h": null,
       "expand": null
+    },
+    {
+      "id": "8mcwvc2",
+      "paperId": "ikaf4pr",
+      "type": "",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null
     }
   ],
   "removedCols": [
@@ -3733,7 +3742,7 @@
       "hasFile": true
     },
     {
-      "id": "c4dsyzd",
+      "id": "ikaf4pr",
       "name": "sustainability-16-10262-v2",
       "meta": {
         "title": "Determining the Applicability and Use of the Intrinsic Motivation Inventory in the Context of Water Conservation",
@@ -3824,12 +3833,10 @@
         "impact": 3,
         "source": "Crossref"
       },
-      "tags": [
-        "SDT"
-      ],
+      "tags": [],
       "summary": "The study findings established the Water Conservation IMI as a reliable tool for measuring intrinsic motivation in water conservation education.",
       "isNew": true,
-      "addedAt": 1785838927594,
+      "addedAt": 1785847266661,
       "hasFile": true
     }
   ],
