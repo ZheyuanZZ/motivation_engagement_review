@@ -472,6 +472,15 @@
       "evidence": [],
       "cells": {},
       "h": null
+    },
+    {
+      "id": "ryeocip",
+      "paperId": "rl0w8f9",
+      "type": "Case Study",
+      "insight": "",
+      "evidence": [],
+      "cells": {},
+      "h": null
     }
   ],
   "removedCols": [
@@ -4182,6 +4191,111 @@
       "isNew": true,
       "addedAt": 1785923425590,
       "hasFile": true
+    },
+    {
+      "id": "rl0w8f9",
+      "name": "1471-244X-13-296 (1)",
+      "meta": {
+        "title": "Motivation to persist with internet-based cognitive behavioural treatment using blended care: a qualitative study",
+        "authors": [
+          {
+            "family": "Wilhelmsen",
+            "given": "Maja"
+          },
+          {
+            "family": "Lillevoll",
+            "given": "Kjersti"
+          },
+          {
+            "family": "Bech Risør",
+            "given": "Mette"
+          },
+          {
+            "family": "Sørensen Høifødt",
+            "given": "Ragnhild"
+          },
+          {
+            "family": "Johansen",
+            "given": "May‐Lill"
+          },
+          {
+            "family": "Waterloo",
+            "given": "Knut"
+          },
+          {
+            "family": "Eisemann",
+            "given": "Martin"
+          },
+          {
+            "family": "Kolstrup",
+            "given": "Nils"
+          }
+        ],
+        "year": "2013",
+        "venue": "BMC Psychiatry",
+        "volume": "13",
+        "issue": "1",
+        "pages": "296–296",
+        "publisher": "BioMed Central",
+        "doi": "10.1186/1471-244x-13-296",
+        "url": "https://doi.org/10.1186/1471-244x-13-296",
+        "type": "article",
+        "abstract": "BACKGROUND: The prevalence of depression is high and results in huge costs for society. Internet-based cognitive behavioural treatment (ICBT) has been suggested for use in primary care and has been shown to be more effective when combined with human support. However, non-completion rates remain a challenge. Current recommendations state that steps to improve persistence with ICBT should be determined and the impact of therapist support on persistence explored. A few earlier studies have explored motivations to persist with ICBT without face-to-face therapist support. The present study explored the motivation to persist as experienced by a group of patients who sought help in primary care and used \"blended care\", i.e. ICBT supported by short face-to-face consultations. METHODS: To elucidate motivation in an everyday context and the meaning of patients' experiences we chose a phenomenological hermeneutical approach. We interviewed participants in the intervention group of a randomized controlled trial that evaluated the efficacy of an ICBT programme called MoodGYM, an eHealth intervention used to treat depression. Fourteen participants, both completers and non-completers, went through individual, semi-structured interviews after they ended their treatment. RESULTS: Hope of recovery and a desire to gain control of one's life were identified as intrinsic motivators. The feeling of being able to freely choose how, when and where to complete the ICBT modules was identified as an important supporting condition and satisfied the participants' need for autonomy. Furthermore, the importance of a sense of belonging towards partners, friends or family was essential for motivation as was the ability to identify with ICBT content. Another supporting condition was the experience of connectedness when met with acknowledgement, flexibility and feedback from a qualified therapist in the face-to-face consultations. CONCLUSIONS: A key finding was that participants were motivated to persist with ICBT when their overall need for relatedness was satisfied. This was achieved through a sense of belonging towards partners, friends and family. Connectedness with the therapist and the participant's ability to identify with the ICBT modules also gave a sense of relatedness. Improving these motivational aspects may increase patients' persistence with ICBT.",
+        "oaId": "https://openalex.org/W2154969199",
+        "oaRefs": [
+          "https://openalex.org/W1529927872",
+          "https://openalex.org/W1595165091",
+          "https://openalex.org/W1622527855",
+          "https://openalex.org/W1965110595",
+          "https://openalex.org/W1974545280",
+          "https://openalex.org/W1988007944",
+          "https://openalex.org/W2002817157",
+          "https://openalex.org/W2004907935",
+          "https://openalex.org/W2006553449",
+          "https://openalex.org/W2011308676",
+          "https://openalex.org/W2027163873",
+          "https://openalex.org/W2034370904",
+          "https://openalex.org/W2056991655",
+          "https://openalex.org/W2075700213",
+          "https://openalex.org/W2078904464",
+          "https://openalex.org/W2086497737",
+          "https://openalex.org/W2097857086",
+          "https://openalex.org/W2105568547",
+          "https://openalex.org/W2107020933",
+          "https://openalex.org/W2107460941",
+          "https://openalex.org/W2110437918",
+          "https://openalex.org/W2110920143",
+          "https://openalex.org/W2113278009",
+          "https://openalex.org/W2120475250",
+          "https://openalex.org/W2121622185",
+          "https://openalex.org/W2122517769",
+          "https://openalex.org/W2126323206",
+          "https://openalex.org/W2131721258",
+          "https://openalex.org/W2138142806",
+          "https://openalex.org/W2141846678",
+          "https://openalex.org/W2144269887",
+          "https://openalex.org/W2146284085",
+          "https://openalex.org/W2146982643",
+          "https://openalex.org/W2152550033",
+          "https://openalex.org/W2158554250",
+          "https://openalex.org/W2163767087",
+          "https://openalex.org/W2164737511",
+          "https://openalex.org/W2164988962",
+          "https://openalex.org/W2168844630",
+          "https://openalex.org/W2315154775",
+          "https://openalex.org/W4242883546"
+        ],
+        "impact": 157,
+        "source": "OpenAlex"
+      },
+      "tags": [
+        "SDT",
+        "CBT Care"
+      ],
+      "summary": "The feeling of being able to freely choose how, when and where to complete the ICBT modules was identified as an important supporting condition and satisfied the participants' need for autonomy.",
+      "isNew": true,
+      "addedAt": 1785927108124,
+      "hasFile": true
     }
   ],
   "ui": {
@@ -4204,7 +4318,8 @@
       "SDT",
       "PokemonGo",
       "iCanQuit",
-      "Brain Injury Therapy"
+      "Brain Injury Therapy",
+      "CBT Care"
     ],
     "graph": {
       "layout": "timeline",
